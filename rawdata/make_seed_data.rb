@@ -2,7 +2,7 @@ require "fileutils"
 include FileUtils
 
 module GettingData
-  def read_file_lines(file, week_num)
+  def self.read_file_lines(file, week_num)
     info = []
     File.readlines(file).each do |line|
       line = line.split("\t")
@@ -34,9 +34,8 @@ module GettingData
   end
 
   def self.hi
-    p hi
+    p "hi"
   end
 end
 
-GettingData.hi
-# GettingData.get_position_info_for_all_weeks("K.txt")
+p GettingData.get_position_info_for_all_weeks("K.txt")
