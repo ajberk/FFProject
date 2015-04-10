@@ -1,0 +1,45 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Julius Thomas	Den	Ind	0	0	0	0	0	0	0	0	0	0	7	104	3	0	0	0	28
+Vernon Davis	SF	@Dal	0	0	0	0	0	0	0	0	0	0	4	44	2	0	0	0	16
+Greg Olsen	Car	@TB	0	0	0	0	0	0	0	0	0	0	8	83	1	0	0	0	14
+Zach Ertz	Phi	Jac	0	0	0	0	0	0	0	0	0	0	3	77	1	0	0	0	13
+Martellus Bennett	Chi	Buf	0	0	0	0	0	0	0	0	0	0	8	70	1	0	0	0	13
+Dwayne Allen	Ind	@Den	0	0	0	0	0	0	0	0	0	0	4	64	1	0	0	0	12
+Larry Donnell	NYG	@Det	0	0	0	0	0	0	0	0	0	0	5	56	1	0	0	0	11
+Rob Gronkowski	NE	@Mia	0	0	0	0	0	0	0	0	0	0	4	40	1	0	0	0	10
+Delanie Walker	Ten	@KC	0	0	0	0	0	0	0	0	0	0	3	37	1	0	0	0	9
+Dennis Pitta	Bal	Cin	0	0	0	0	0	0	0	0	0	0	10	83	0	0	0	0	8
+Jimmy Graham	NO	@Atl	0	0	0	0	0	0	0	0	0	0	8	82	0	0	0	0	8
+Antonio Gates	SD	@Ari	0	0	0	0	0	0	0	0	0	0	6	81	0	0	0	0	8
+Anthony Fasano	KC	Ten	0	0	0	0	0	0	0	0	0	0	3	29	1	0	0	0	8
+Levine Toilolo	Atl	NO	0	0	0	0	0	0	0	0	0	0	3	19	1	0	0	0	7
+Kyle Rudolph	Min	@Stl	0	0	0	0	0	0	0	0	0	0	2	16	1	0	0	0	7
+Jared Cook	Stl	Min	0	0	0	0	0	0	0	0	0	0	4	56	0	0	0	0	5
+Brandon Myers	TB	Car	0	0	0	0	0	0	0	0	0	0	6	41	0	0	0	0	4
+Zach Miller	Sea	GB	0	0	0	0	0	0	0	0	0	0	3	42	0	0	0	0	4
+Travis Kelce	KC	Ten	0	0	0	0	0	0	0	0	0	0	3	49	0	0	0	0	4
+Joseph Fauria	Det	NYG	0	0	0	0	0	0	0	0	0	0	1	26	0	1	0	0	4
+Jordan Cameron	Cle	@Pit	0	0	0	0	0	0	0	0	0	0	2	47	0	0	0	0	4
+Mychal Rivera	Oak	@NYJ	0	0	0	0	0	0	0	0	0	0	3	31	0	0	0	0	3
+Marcedes Lewis	Jac	@Phi	0	0	0	0	0	0	0	0	0	0	6	35	0	0	0	0	3
+Tyler Eifert	Cin	@Bal	0	0	0	0	0	0	0	0	0	0	3	37	0	0	0	0	3
+Jim Dray	Cle	@Pit	0	0	0	0	0	0	0	0	0	0	2	30	0	0	0	0	3
+Owen Daniels	Bal	Cin	0	0	0	0	0	0	0	0	0	0	4	34	0	0	0	0	3
+Austin Seferian-Jenkins	TB	Car	0	0	0	0	0	0	0	0	0	0	1	26	0	0	0	0	2
+Andrew Quarless	GB	@Sea	0	0	0	0	0	0	0	0	0	0	3	26	0	0	0	0	2
+Heath Miller	Pit	Cle	0	0	0	0	0	0	0	0	0	0	3	26	0	0	0	0	2
+Ladarius Green	SD	@Ari	0	0	0	0	0	0	0	0	0	0	2	24	0	0	0	0	2
+Coby Fleener	Ind	@Den	0	0	0	0	0	0	0	0	0	0	3	21	0	0	0	0	2
+Rhett Ellison	Min	@Stl	0	0	0	0	0	0	0	0	0	0	1	22	0	0	0	0	2
+Charles Clay	Mia	NE	0	0	0	0	0	0	0	0	0	0	2	27	0	0	0	0	2
+John Carlson	Ari	SD	0	0	0	0	0	0	0	0	0	0	1	20	0	0	0	0	2
+Jason Witten	Dal	SF	0	0	0	0	0	0	0	0	0	0	2	14	0	0	0	0	1
+Dante Rosario	Chi	Buf	0	0	0	0	0	0	0	0	0	0	1	12	0	0	0	0	1
+Brian Leonhardt	Oak	@NYJ	0	0	0	0	0	0	0	0	0	0	1	12	0	0	0	0	1
+Lance Kendricks	Stl	Min	0	0	0	0	0	0	0	0	0	0	2	12	0	0	0	0	1
+Rob Housler	Ari	SD	0	0	0	0	0	0	0	0	0	0	1	16	0	0	0	0	1
+Jermaine Gresham	Cin	@Bal	0	0	0	0	0	0	0	0	0	0	2	16	0	0	0	0	1
+Brent Celek	Phi	Jac	0	0	0	0	0	0	0	0	0	0	3	15	0	0	0	0	1
+Gary Barnidge	Cle	@Pit	0	0	0	0	0	0	0	0	0	0	1	13	0	0	0	0	1

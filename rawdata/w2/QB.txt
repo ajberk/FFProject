@@ -1,0 +1,35 @@
+  Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Aaron Rodgers	GB	NYJ	42	25	346	3	0	1	6	28	0	0	0	0	0	0	1	0	34
+Jay Cutler	Chi	@SF	34	23	176	4	0	0	5	25	0	0	0	0	0	0	0	0	33
+Philip Rivers	SD	Sea	37	28	284	3	0	0	11	17	0	0	0	0	0	0	0	0	30
+Peyton Manning	Den	KC	26	21	242	3	0	0	1	-1	0	0	0	0	0	0	0	0	27
+Andrew Luck	Ind	Phi	34	20	172	3	1	0	4	20	0	0	0	0	0	0	0	0	24
+Kirk Cousins	Was	Jac	33	22	250	2	0	0	1	-1	0	0	0	0	0	0	0	0	22
+Russell Wilson	Sea	@SD	25	17	202	2	0	0	2	18	0	0	0	0	0	0	0	0	21
+Cam Newton	Car	Det	34	22	281	1	0	1	4	19	0	0	0	0	0	0	0	0	20
+Geno Smith	NYJ	@GB	32	16	176	1	1	0	7	26	1	0	0	0	0	0	0	0	19
+Eli Manning	NYG	Ari	39	26	277	2	2	0	1	5	0	0	0	0	0	0	0	0	19
+Nick Foles	Phi	@Ind	37	21	331	1	1	0	4	22	0	0	0	0	0	0	0	0	19
+Drew Brees	NO	@Cle	40	27	237	2	1	0	1	3	0	0	0	0	0	0	0	0	19
+Joe Flacco	Bal	Pit	29	21	166	2	0	0	5	3	0	0	0	0	0	0	0	0	18
+Josh McCown	TB	Stl	21	16	179	0	1	0	2	6	2	0	0	0	0	0	0	0	17
+Ryan Fitzpatrick	Hou	@Oak	19	14	139	2	0	0	0	0	0	0	0	0	0	0	0	0	17
+Derek Carr	Oak	Hou	42	27	263	1	2	0	4	58	0	0	0	0	0	0	0	0	17
+Andy Dalton	Cin	Atl	23	15	252	1	0	0	3	6	0	0	0	0	0	0	0	0	16
+Matthew Stafford	Det	@Car	48	27	291	1	1	0	1	8	0	0	0	0	0	0	0	0	15
+Ryan Tannehill	Mia	@Buf	49	31	241	1	1	0	4	11	0	0	0	0	0	0	0	0	14
+Alex Smith	KC	@Den	42	26	255	0	0	0	5	42	0	0	0	0	0	0	0	0	14
+E.J. Manuel	Buf	Mia	26	16	202	1	0	0	4	6	0	0	0	0	0	0	0	0	14
+Colin Kaepernick	SF	Chi	34	21	248	1	3	0	9	64	0	0	0	0	0	0	1	0	14
+Brian Hoyer	Cle	NO	40	24	204	1	0	0	0	0	0	0	0	0	0	0	0	0	14
+Tony Romo	Dal	@Ten	29	19	176	1	0	0	0	0	0	0	0	0	0	0	0	0	13
+Chad Henne	Jac	@Was	28	14	193	1	1	0	3	17	0	0	0	0	0	0	0	0	12
+Matt Ryan	Atl	@Cin	44	24	231	1	3	0	3	28	0	0	0	0	0	0	0	0	11
+Jake Locker	Ten	Dal	34	18	234	1	2	0	2	9	0	0	0	0	0	0	0	0	11
+Tom Brady	NE	@Min	21	14	149	1	0	0	1	0	0	0	0	0	0	0	0	0	11
+Austin Davis	Stl	@TB	29	22	235	0	0	0	1	0	0	0	0	0	0	0	0	0	9
+Matt Cassel	Min	NE	36	19	202	1	4	0	3	16	0	0	0	0	0	0	0	0	7
+Drew Stanton	Ari	@NYG	29	14	167	0	0	0	2	-2	0	0	0	0	0	0	0	0	6
+Ben Roethlisberger	Pit	@Bal	37	22	217	0	1	0	0	0	0	0	0	0	0	0	0	0	6
+Robert Griffin III	Was	Jac	3	2	38	0	0	0	2	22	0	0	0	0	0	0	0	0	3
