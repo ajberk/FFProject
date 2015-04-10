@@ -1,0 +1,29 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Ben Roethlisberger	Pit	Bal	37	25	340	6	0	0	2	1	0	0	0	0	0	0	1	0	48
+Andrew Luck	Ind	@NYG	46	25	354	4	0	0	2	5	0	0	0	0	0	0	0	0	38
+Tom Brady	NE	Den	53	33	333	4	1	0	2	4	0	0	0	0	0	0	0	0	35
+Ryan Tannehill	Mia	SD	34	24	288	3	0	0	4	47	0	0	0	0	0	0	0	0	33
+Eli Manning	NYG	Ind	52	27	359	2	0	0	1	18	0	0	0	0	0	0	1	0	26
+Carson Palmer	Ari	@Dal	34	22	249	3	1	0	2	-2	0	0	0	0	0	0	0	0	25
+Peyton Manning	Den	@NE	57	34	438	2	2	0	2	3	0	0	0	0	0	0	0	0	25
+Joe Flacco	Bal	@Pit	45	30	303	2	1	0	1	2	0	0	0	0	0	0	0	0	22
+Ryan Fitzpatrick	Hou	Phi	27	13	203	2	1	0	6	49	0	0	0	0	0	0	0	0	22
+Brian Hoyer	Cle	TB	34	21	300	2	2	0	2	5	0	0	0	0	0	0	0	0	20
+Drew Brees	NO	@Car	34	24	297	1	1	0	4	2	1	0	0	0	0	0	1	0	20
+Blake Bortles	Jac	@Cin	33	22	247	2	1	0	4	10	0	0	0	0	0	0	0	0	20
+Alex Smith	KC	NYJ	31	21	199	2	0	0	0	0	0	0	0	0	0	0	0	0	19
+Mike Glennon	TB	@Cle	33	17	260	2	2	0	3	17	0	0	0	0	0	0	0	0	19
+Andy Dalton	Cin	Jac	31	19	233	2	2	0	2	11	0	0	0	0	0	0	0	0	18
+Teddy Bridgewater	Min	Was	42	26	268	1	0	0	3	20	0	0	0	0	0	0	0	0	18
+Mark Sanchez	Phi	@Hou	22	15	202	2	2	0	5	5	0	0	0	0	0	0	0	0	16
+Robert Griffin III	Was	@Min	28	18	251	1	1	0	7	24	0	0	0	0	0	0	0	0	16
+Derek Carr	Oak	@Sea	41	24	194	2	2	0	2	9	0	0	0	0	0	0	0	0	15
+Michael Vick	NYJ	@KC	28	21	196	1	0	0	4	18	0	0	0	0	0	0	0	0	14
+Colin Kaepernick	SF	Stl	33	22	237	1	0	0	5	14	0	0	0	0	0	0	2	0	14
+Cam Newton	Car	NO	28	10	151	0	1	0	7	43	1	0	0	0	0	0	1	0	13
+Russell Wilson	Sea	Oak	35	17	179	0	0	0	8	31	0	0	0	0	0	0	0	0	10
+Brandon Weeden	Dal	Ari	33	18	183	1	2	0	2	2	0	0	0	0	0	0	0	0	9
+Nick Foles	Phi	@Hou	12	9	124	1	1	0	1	1	0	0	0	0	0	0	0	0	8
+Austin Davis	Stl	@SF	24	13	105	1	2	0	2	9	0	0	0	0	0	0	0	0	6
+Matt Simms	NYJ	@KC	8	3	39	0	0	0	1	2	0	0	0	0	0	0	0	0	1

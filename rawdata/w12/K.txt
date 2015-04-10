@@ -1,0 +1,32 @@
+
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Cody Parkey	Phi	Ten	4	4	6	5	1	21
+Steven Hauschka	Sea	Ari	1	1	5	4	1	15
+Billy Cundiff	Cle	@Atl	2	2	5	4	0	14
+Justin Tucker	Bal	@NO	4	4	2	2	1	12
+Adam Vinatieri	Ind	Jac	2	2	3	3	0	11
+Stephen Gostkowski	NE	Det	4	4	2	2	0	10
+Dan Carpenter	Buf	NYJ	5	5	1	1	1	10
+Blair Walsh	Min	GB	1	1	2	2	1	9
+Matt Prater	Det	@NE	0	0	4	3	0	9
+Nick Novak	SD	Stl	3	3	2	2	0	9
+Shayne Graham	NO	Bal	3	3	2	2	0	9
+Cairo Santos	KC	@Oak	2	2	2	2	0	8
+Mike Nugent	Cin	@Hou	2	2	2	2	0	8
+Matt Bryant	Atl	Cle	3	3	1	1	1	8
+Patrick Murray	TB	@Chi	1	1	2	2	0	7
+Brandon McManus	Den	Mia	4	4	2	1	0	7
+Kai Forbath	Was	@SF	1	1	2	2	0	7
+Randy Bullock	Hou	Cin	1	1	2	2	0	7
+Dan Bailey	Dal	@NYG	4	4	1	1	0	7
+Greg Zuerlein	Stl	@SD	3	3	2	1	0	6
+Ryan Succop	Ten	@Phi	3	3	1	1	0	6
+Sebastian Janikowski	Oak	KC	3	3	1	1	0	6
+Mason Crosby	GB	@Min	3	3	1	1	0	6
+Phil Dawson	SF	Was	2	2	1	1	0	5
+Caleb Sturgis	Mia	@Den	4	4	0	0	0	4
+Josh Brown	NYG	Dal	4	4	0	0	0	4
+Josh Scobee	Jac	@Ind	0	0	1	1	0	3
+Robbie Gould	Chi	TB	3	3	1	0	0	3
+Nick Folk	NYJ	@Buf	0	0	1	1	0	3
+Chandler Catanzaro	Ari	@Sea	0	0	2	1	0	3

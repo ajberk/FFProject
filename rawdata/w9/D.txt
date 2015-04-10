@@ -1,0 +1,28 @@
+
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Miami Dolphins	SD	4.0	3	0	1	0	0	0	128	50	178	22
+St. Louis Rams	@SF	8.0	0	0	2	0	0	10	183	80	263	19
+Houston Texans	Phi	4.0	3	0	1	0	1	31	293	190	483	18
+New Orleans Saints	@Car	4.0	1	0	1	0	0	10	122	109	231	15
+Seattle Seahawks	Oak	1.0	2	0	1	0	1	24	189	37	226	14
+Cleveland Browns	TB	2.0	2	0	0	1	0	17	252	113	365	12
+New England Patriots	Den	1.0	2	0	0	0	1	21	429	43	472	12
+San Francisco 49ers	Stl	1.0	2	0	0	0	0	13	102	91	193	12
+Arizona Cardinals	@Dal	1.0	2	0	0	1	0	17	174	92	266	11
+Baltimore Ravens	@Pit	3.0	0	0	1	0	1	43	321	55	376	11
+Dallas Cowboys	Ari	2.0	1	0	0	0	1	28	237	102	339	10
+Kansas City Chiefs	NYJ	3.0	0	0	0	0	0	10	225	139	364	10
+Cincinnati Bengals	Jac	2.0	1	1	0	1	0	23	233	132	365	9
+Oakland Raiders	@Sea	1.0	0	0	0	1	1	30	177	149	326	9
+Pittsburgh Steelers	Bal	4.0	1	0	1	0	0	23	269	63	332	9
+Tampa Bay Buccaneers	@Cle	4.0	2	0	0	0	0	22	274	56	330	9
+Carolina Panthers	NO	4.0	1	0	1	0	0	28	270	105	375	8
+Minnesota Vikings	Was	5.0	1	0	0	0	0	26	225	122	347	8
+Philadelphia Eagles	@Hou	4.0	1	0	0	0	0	21	182	118	300	7
+Indianapolis Colts	@NYG	3.0	0	0	1	0	0	24	349	89	438	6
+Jacksonville Jaguars	@Cin	2.0	2	0	0	0	0	33	232	191	423	6
+Denver Broncos	@NE	1.0	1	0	0	0	0	43	332	66	398	3
+New York Jets	@KC	1.0	0	0	0	0	0	24	196	113	309	2
+Washington Redskins	@Min	2.0	0	0	0	0	0	29	252	100	352	2
+New York Giants	Ind	1.0	0	0	0	0	0	40	345	98	443	1
+San Diego Chargers	@Mia	0.0	0	0	0	0	0	37	309	132	441	0

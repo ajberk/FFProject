@@ -1,0 +1,36 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Russell Wilson	Sea	@Ari	31	20	339	2	0	0	6	88	1	0	0	0	0	0	0	0	39
+Ryan Tannehill	Mia	Min	47	35	396	4	1	0	6	-5	0	0	0	0	0	0	0	0	37
+Tony Romo	Dal	Ind	20	18	218	4	0	0	3	28	0	0	0	0	0	0	0	0	34
+Eli Manning	NYG	@Stl	32	25	391	3	0	0	3	-3	0	0	0	0	0	0	0	0	33
+Philip Rivers	SD	@SF	54	33	356	4	3	0	0	0	0	0	0	0	0	0	0	0	32
+Colin Kaepernick	SF	SD	24	15	114	1	0	0	7	151	1	0	0	0	0	0	1	0	30
+Kyle Orton	Buf	@Oak	49	32	329	3	2	0	0	0	0	0	0	0	0	0	0	0	27
+Mark Sanchez	Phi	@Was	50	37	374	2	1	0	5	22	0	0	0	0	0	0	1	0	25
+Cam Newton	Car	Cle	31	18	201	1	1	0	12	63	1	0	0	0	0	0	0	0	24
+Shaun Hill	Stl	NYG	32	24	290	2	1	0	1	0	0	0	0	0	0	0	0	0	21
+Teddy Bridgewater	Min	@Mia	26	19	259	2	1	0	5	13	0	0	0	0	0	0	0	0	21
+Derek Carr	Oak	Buf	34	17	214	2	0	0	4	0	0	0	0	0	0	0	0	0	20
+Charlie Whitehurst	Ten	@Jac	35	24	287	1	0	0	3	12	0	0	0	0	0	0	0	0	18
+Matt Ryan	Atl	@NO	40	30	322	1	0	0	2	7	0	0	0	0	0	0	0	0	18
+Aaron Rodgers	GB	@TB	40	31	318	1	0	0	0	0	0	0	0	0	0	0	1	0	17
+Andy Dalton	Cin	Den	25	17	146	2	1	0	6	25	0	0	0	0	0	0	0	0	17
+Jimmy Clausen	Chi	Det	39	23	181	2	1	0	3	9	0	0	0	0	0	0	0	0	17
+Peyton Manning	Den	@Cin	44	28	311	2	4	0	0	0	0	0	0	0	0	0	0	0	16
+Blake Bortles	Jac	Ten	26	13	115	1	0	0	5	50	0	0	0	0	0	0	0	0	15
+Ben Roethlisberger	Pit	KC	25	18	220	1	0	0	4	-4	0	0	0	0	0	0	0	0	14
+Alex Smith	KC	@Pit	45	31	311	0	0	0	2	14	0	0	0	0	0	0	0	0	13
+Joe Flacco	Bal	@Hou	50	21	195	2	3	0	1	5	0	0	0	0	0	0	0	0	13
+Drew Brees	NO	Atl	47	30	313	1	2	0	2	8	0	0	0	0	0	0	1	0	13
+Geno Smith	NYJ	NE	27	17	210	1	1	0	3	9	0	0	0	0	0	0	0	0	12
+Tom Brady	NE	@NYJ	35	23	182	1	1	0	7	10	0	0	0	0	0	0	0	0	12
+Brian Hoyer	Cle	@Car	13	7	134	1	1	0	2	19	0	0	0	0	0	0	0	0	10
+Matt Hasselbeck	Ind	@Dal	21	15	126	1	0	0	0	0	0	0	0	0	0	0	1	0	10
+Brandon Weeden	Dal	Ind	1	1	43	1	0	0	0	0	0	0	0	0	0	0	0	0	7
+Robert Griffin III	Was	Phi	23	16	220	0	1	0	5	11	0	0	0	0	0	0	0	0	7
+Ryan Lindley	Ari	Sea	44	18	216	0	1	0	0	0	0	0	0	0	0	0	0	0	6
+Case Keenum	Hou	Bal	42	20	185	0	1	0	4	19	0	0	0	0	0	0	0	0	6
+Matthew Stafford	Det	@Chi	39	22	243	0	2	0	4	2	0	0	0	0	0	0	0	0	5
+Josh McCown	TB	GB	26	12	147	0	1	0	0	0	0	0	0	0	0	0	0	0	3
+Johnny Manziel	Cle	@Car	8	3	32	0	0	0	2	3	0	0	0	0	0	0	0	0	1

@@ -1,0 +1,46 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Julius Thomas	Den	@NYJ	0	0	0	0	0	0	0	0	0	0	4	51	2	0	0	0	17
+Jordan Cameron	Cle	Pit	0	0	0	0	0	0	0	0	0	0	3	102	1	0	0	0	16
+Clay Harbor	Jac	@Ten	0	0	0	0	0	0	0	0	0	0	3	91	1	0	0	0	15
+Greg Olsen	Car	@Cin	0	0	0	0	0	0	0	0	0	0	6	62	1	0	0	0	12
+Jace Amaro	NYJ	Den	0	0	0	0	0	0	0	0	0	0	10	68	1	0	0	0	12
+Zach Ertz	Phi	NYG	0	0	0	0	0	0	0	0	0	0	3	47	1	0	0	0	10
+Scott Chandler	Buf	NE	0	0	0	0	0	0	0	0	0	0	6	105	0	0	0	0	10
+Jordan Reed	Was	@Ari	0	0	0	0	0	0	0	0	0	0	8	92	0	0	0	0	9
+Rob Gronkowski	NE	@Buf	0	0	0	0	0	0	0	0	0	0	7	94	0	0	0	0	9
+Jason Witten	Dal	@Sea	0	0	0	0	0	0	0	0	0	0	2	24	1	0	0	0	8
+Lance Kendricks	Stl	SF	0	0	0	0	0	0	0	0	0	0	1	22	1	0	0	0	8
+Antonio Gates	SD	@Oak	0	0	0	0	0	0	0	0	0	0	3	27	1	0	0	0	8
+James Casey	Phi	NYG	0	0	0	0	0	0	0	0	0	0	1	26	1	0	0	0	8
+Andrew Quarless	GB	@Mia	0	0	0	0	0	0	0	0	0	0	2	11	1	0	0	0	7
+Coby Fleener	Ind	@Hou	0	0	0	0	0	0	0	0	0	0	2	11	1	0	0	0	7
+Jared Cook	Stl	SF	0	0	0	0	0	0	0	0	0	0	4	74	0	0	0	0	7
+Martellus Bennett	Chi	@Atl	0	0	0	0	0	0	0	0	0	0	4	52	0	1	0	0	7
+Jermaine Gresham	Cin	Car	0	0	0	0	0	0	0	0	0	0	6	68	0	0	0	0	6
+Ladarius Green	SD	@Oak	0	0	0	0	0	0	0	0	0	0	4	60	0	0	0	0	6
+Gavin Escobar	Dal	@Sea	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	6
+Delanie Walker	Ten	Jac	0	0	0	0	0	0	0	0	0	0	3	57	0	0	0	0	5
+Austin Seferian-Jenkins	TB	Bal	0	0	0	0	0	0	0	0	0	0	4	58	0	0	0	0	5
+Brent Celek	Phi	NYG	0	0	0	0	0	0	0	0	0	0	4	45	0	0	0	0	4
+Dwayne Allen	Ind	@Hou	0	0	0	0	0	0	0	0	0	0	3	49	0	0	0	0	4
+Levine Toilolo	Atl	Chi	0	0	0	0	0	0	0	0	0	0	3	34	0	0	0	0	3
+Chase Ford	Min	Det	0	0	0	0	0	0	0	0	0	0	4	37	0	0	0	0	3
+Daniel Fells	NYG	@Phi	0	0	0	0	0	0	0	0	0	0	2	40	0	0	1	0	3
+Jim Dray	Cle	Pit	0	0	0	0	0	0	0	0	0	0	1	31	0	0	0	0	3
+Vernon Davis	SF	@Stl	0	0	0	0	0	0	0	0	0	0	3	30	0	0	0	0	3
+Owen Daniels	Bal	@TB	0	0	0	0	0	0	0	0	0	0	2	34	0	0	0	0	3
+Charles Clay	Mia	GB	0	0	0	0	0	0	0	0	0	0	3	35	0	0	0	0	3
+Adrien Robinson	NYG	@Phi	0	0	0	0	0	0	0	0	0	0	1	29	0	0	0	0	2
+Brandon Myers	TB	Bal	0	0	0	0	0	0	0	0	0	0	2	29	0	0	0	0	2
+Eric Ebron	Det	@Min	0	0	0	0	0	0	0	0	0	0	2	23	0	0	0	0	2
+Luke Willson	Sea	Dal	0	0	0	0	0	0	0	0	0	0	2	11	0	0	0	0	1
+Brandon Williams	Car	@Cin	0	0	0	0	0	0	0	0	0	0	1	16	0	0	0	0	1
+Heath Miller	Pit	@Cle	0	0	0	0	0	0	0	0	0	0	2	19	0	0	0	0	1
+Vance McDonald	SF	@Stl	0	0	0	0	0	0	0	0	0	0	1	21	0	0	1	0	1
+Rob Housler	Ari	Was	0	0	0	0	0	0	0	0	0	0	2	15	0	0	0	0	1
+Michael Hoomanawanui	NE	@Buf	0	0	0	0	0	0	0	0	0	0	1	15	0	0	0	0	1
+Crockett Gillmore	Bal	@TB	0	0	0	0	0	0	0	0	0	0	2	16	0	0	0	0	1
+John Carlson	Ari	Was	0	0	0	0	0	0	0	0	0	0	4	14	0	0	0	0	1
+Trey Burton	Phi	NYG	0	0	0	0	0	0	5	10	0	0	0	0	0	0	0	0	1

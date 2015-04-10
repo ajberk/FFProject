@@ -1,0 +1,27 @@
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Mason Crosby	GB	Chi	7	7	2	2	1	15
+Matt Bryant	Atl	@TB	1	1	4	4	0	13
+Caleb Sturgis	Mia	@Det	1	1	3	3	1	12
+Brandon McManus	Den	@Oak	5	5	2	2	0	11
+Matt Prater	Det	Mia	2	2	3	2	1	10
+Shaun Suisham	Pit	@NYJ	1	1	3	2	1	9
+Cody Parkey	Phi	Car	6	6	1	1	0	9
+Phil Dawson	SF	@NO	3	3	2	2	0	9
+Dan Bailey	Dal	@Jac	4	4	2	1	1	9
+Steven Hauschka	Sea	NYG	5	5	1	1	0	8
+Nick Folk	NYJ	Pit	2	2	3	2	0	8
+Patrick Murray	TB	Atl	2	2	1	1	1	7
+Chandler Catanzaro	Ari	Stl	4	4	2	1	0	7
+Dan Carpenter	Buf	KC	1	1	2	2	0	7
+Shayne Graham	NO	SF	3	3	1	1	0	6
+Billy Cundiff	Cle	@Cin	3	3	2	1	0	6
+Cairo Santos	KC	@Buf	2	2	1	1	0	5
+Sebastian Janikowski	Oak	Den	2	2	1	1	0	5
+Josh Brown	NYG	@Sea	2	2	1	1	0	5
+Justin Tucker	Bal	Ten	3	3	0	0	0	3
+Mike Nugent	Cin	Cle	0	0	1	1	0	3
+Graham Gano	Car	@Phi	3	3	0	0	0	3
+Greg Zuerlein	Stl	@Ari	2	2	0	0	0	2
+Robbie Gould	Chi	@GB	2	2	0	0	0	2
+Ryan Succop	Ten	@Bal	1	1	0	0	0	1
+Josh Scobee	Jac	Dal	1	1	0	0	0	1

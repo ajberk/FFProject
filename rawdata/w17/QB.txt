@@ -1,0 +1,37 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Geno Smith	NYJ	@Mia	25	20	358	3	0	0	5	18	0	0	0	0	0	0	1	0	32
+Aaron Rodgers	GB	Det	22	17	226	2	0	0	2	14	1	0	0	0	0	0	0	0	28
+Matthew Stafford	Det	@GB	41	20	217	3	0	0	4	29	0	0	0	0	0	0	1	0	27
+Colin Kaepernick	SF	Ari	26	15	204	2	0	0	7	63	0	0	0	0	0	0	0	0	26
+Joe Flacco	Bal	Cle	36	22	312	2	0	0	3	1	0	0	0	0	0	0	0	0	24
+Mark Sanchez	Phi	@NYG	36	23	292	2	1	0	7	22	0	0	0	0	0	0	0	0	23
+Tony Romo	Dal	@Was	34	22	299	2	1	0	1	0	0	0	0	0	0	0	0	0	21
+Ben Roethlisberger	Pit	Cin	38	24	317	2	1	0	4	3	0	0	0	0	0	0	1	0	21
+Cam Newton	Car	@Atl	16	10	114	1	0	0	6	51	1	0	0	0	0	0	0	0	21
+Eli Manning	NYG	Phi	53	28	429	1	1	0	0	0	0	0	0	0	0	0	0	0	21
+Robert Griffin III	Was	Dal	41	27	336	1	2	0	6	19	1	0	0	0	0	0	1	0	21
+Case Keenum	Hou	Jac	35	25	250	2	1	0	6	16	0	0	0	0	0	0	1	0	20
+Andrew Luck	Ind	@Ten	16	10	160	2	0	0	1	5	0	0	0	0	0	0	0	0	18
+Ryan Lindley	Ari	@SF	39	23	316	2	3	0	0	0	0	0	0	0	0	0	0	0	18
+Andy Dalton	Cin	@Pit	38	27	244	2	2	0	3	8	0	0	0	0	0	0	0	0	17
+Ryan Tannehill	Mia	NYJ	39	23	259	1	0	0	0	0	0	0	0	0	0	0	1	0	15
+Teddy Bridgewater	Min	Chi	25	17	209	1	1	0	6	18	0	0	0	0	0	0	0	0	13
+Kyle Orton	Buf	@NE	23	16	176	1	0	0	2	-3	0	0	0	0	0	0	1	0	12
+Matt Hasselbeck	Ind	@Ten	19	13	155	1	0	0	4	-8	0	0	0	0	0	0	0	0	12
+Drew Brees	NO	@TB	38	24	281	1	3	0	2	-2	0	0	1	1	0	0	0	0	11
+Blake Bortles	Jac	@Hou	33	14	117	0	0	0	3	61	0	0	0	0	0	0	0	0	10
+Charlie Whitehurst	Ten	Ind	28	12	72	1	0	0	4	19	0	0	0	0	0	0	0	0	9
+Peyton Manning	Den	Oak	37	21	273	0	0	0	1	-5	0	0	0	0	0	0	1	0	9
+Jay Cutler	Chi	@Min	36	23	172	0	0	0	3	39	0	0	0	0	0	0	0	0	9
+Derek Carr	Oak	@Den	36	18	158	1	1	0	3	6	0	0	0	0	0	0	1	0	9
+Josh McCown	TB	NO	23	14	115	1	1	0	2	6	0	0	0	0	0	0	0	0	8
+Russell Wilson	Sea	Stl	25	17	239	0	1	0	6	7	0	0	0	0	0	0	0	0	7
+Brock Osweiler	Den	Oak	2	2	39	1	0	0	1	-1	0	0	0	0	0	0	0	0	7
+Chase Daniel	KC	SD	27	16	157	0	0	0	3	16	0	0	0	0	0	0	0	0	7
+Matt Ryan	Atl	Car	47	29	260	0	2	0	1	6	0	0	0	0	0	0	0	0	6
+Philip Rivers	SD	@KC	34	20	291	0	2	0	1	2	0	0	0	0	0	0	1	0	6
+Shaun Hill	Stl	@Sea	37	26	243	0	2	0	0	0	0	0	0	0	0	0	0	0	5
+Connor Shaw	Cle	@Bal	28	14	177	0	1	0	7	9	0	0	0	0	0	0	1	0	4
+Jimmy Garoppolo	NE	Buf	17	10	90	0	0	0	4	16	0	0	0	0	0	0	0	0	4
+Tom Brady	NE	Buf	16	8	80	0	0	0	2	9	0	0	0	0	0	0	0	0	3

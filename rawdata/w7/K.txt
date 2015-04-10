@@ -1,0 +1,31 @@
+
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Kai Forbath	Was	Ten	1	1	4	4	0	13
+Nick Folk	NYJ	@NE	1	1	5	4	0	13
+Blair Walsh	Min	@Buf	1	1	3	3	1	12
+Shaun Suisham	Pit	Hou	3	3	3	3	0	12
+Adam Vinatieri	Ind	Cin	3	3	2	2	1	11
+Cairo Santos	KC	@SD	2	2	3	3	0	11
+Shayne Graham	NO	@Det	2	2	3	3	0	11
+Randy Bullock	Hou	@Pit	2	2	3	3	0	11
+Justin Tucker	Bal	Atl	3	3	2	2	0	9
+Caleb Sturgis	Mia	@Chi	3	3	4	2	0	9
+Sebastian Janikowski	Oak	Ari	1	1	2	2	1	9
+Stephen Gostkowski	NE	NYJ	3	3	2	2	0	9
+Nick Novak	SD	KC	2	2	2	2	0	8
+Steven Hauschka	Sea	@Stl	2	2	2	2	0	8
+Mason Crosby	GB	Car	5	5	1	1	0	8
+Dan Bailey	Dal	NYG	4	4	1	1	0	7
+Josh Scobee	Jac	Cle	3	3	1	1	0	6
+Matt Prater	Det	NO	3	3	1	1	0	6
+Brandon McManus	Den	SF	6	6	0	0	0	6
+Billy Cundiff	Cle	@Jac	0	0	2	2	0	6
+Chandler Catanzaro	Ari	@Oak	3	3	1	1	0	6
+Ryan Succop	Ten	@Was	2	2	1	1	0	5
+Graham Gano	Car	@GB	2	2	1	1	0	5
+Phil Dawson	SF	@Den	2	2	2	1	0	5
+Dan Carpenter	Buf	Min	2	2	1	1	0	5
+Greg Zuerlein	Stl	Sea	4	4	1	0	0	4
+Josh Brown	NYG	@Dal	3	3	0	0	0	3
+Robbie Gould	Chi	Mia	2	2	0	0	0	2
+Matt Bryant	Atl	@Bal	1	1	1	0	0	1

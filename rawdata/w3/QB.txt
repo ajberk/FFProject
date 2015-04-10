@@ -1,0 +1,38 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Andrew Luck	Ind	@Jac	39	31	370	4	0	0	3	15	0	0	0	0	0	0	0	0	39
+Kirk Cousins	Was	@Phi	48	30	427	3	1	0	3	5	0	0	0	0	0	0	0	0	33
+Nick Foles	Phi	Was	41	27	325	3	0	0	4	12	0	0	0	0	0	0	0	0	32
+Matt Ryan	Atl	TB	24	21	286	3	0	0	1	2	0	0	0	0	0	0	0	0	29
+Austin Davis	Stl	Dal	42	30	327	3	2	0	2	-1	0	0	0	0	0	0	0	0	27
+Russell Wilson	Sea	Den	34	24	258	2	1	0	9	40	0	0	1	17	0	0	0	0	25
+Alex Smith	KC	@Mia	25	19	186	3	0	0	2	17	0	0	0	0	0	0	1	0	25
+Peyton Manning	Den	@Sea	49	31	303	2	1	1	1	-1	0	0	0	0	0	0	0	0	24
+Drew Brees	NO	Min	35	27	293	2	0	0	3	-2	0	0	0	0	0	0	0	0	23
+Drew Stanton	Ari	SF	33	18	244	2	0	0	6	16	0	0	0	0	0	0	0	0	22
+Philip Rivers	SD	@Buf	25	18	256	2	0	0	1	9	0	0	0	0	0	0	0	0	22
+Eli Manning	NYG	Hou	28	21	234	2	0	0	1	-1	0	0	0	0	0	0	0	0	21
+Jay Cutler	Chi	@NYJ	38	23	225	2	0	0	5	14	0	0	0	0	0	0	1	0	21
+Colin Kaepernick	SF	@Ari	37	29	245	1	0	0	12	54	0	0	0	0	0	0	0	0	20
+Ryan Fitzpatrick	Hou	@NYG	34	20	289	1	3	0	7	34	1	0	0	0	0	0	0	0	20
+Tony Romo	Dal	@Stl	23	18	217	2	1	0	3	14	0	0	0	0	0	0	0	0	19
+Ben Roethlisberger	Pit	@Car	30	22	196	2	0	0	1	1	0	0	0	0	0	0	0	0	19
+Blake Bortles	Jac	Ind	24	14	223	2	2	0	2	30	0	0	0	0	0	0	0	0	19
+E.J. Manuel	Buf	SD	39	23	238	1	0	0	5	24	0	0	0	0	0	0	0	0	17
+Brian Hoyer	Cle	Bal	25	19	290	1	0	0	3	-2	0	0	0	0	0	0	0	0	17
+Geno Smith	NYJ	Chi	43	26	316	1	2	0	3	20	0	0	0	0	0	0	0	0	16
+Cam Newton	Car	Pit	35	24	250	1	0	0	2	7	0	0	0	0	0	0	1	0	15
+Tom Brady	NE	Oak	37	24	234	1	0	0	3	-7	0	0	0	0	0	0	0	0	15
+Ryan Tannehill	Mia	KC	43	21	205	1	0	0	1	9	0	0	0	0	0	0	0	0	14
+Aaron Rodgers	GB	@Det	27	16	162	1	0	0	0	0	0	0	0	0	0	0	0	0	12
+Joe Flacco	Bal	@Cle	31	19	217	1	1	0	4	6	0	0	0	0	0	0	0	0	12
+Mike Glennon	TB	@Atl	24	17	121	1	0	0	3	19	0	0	0	0	0	0	0	0	11
+Andy Dalton	Cin	Ten	23	15	169	0	1	0	3	3	0	0	1	18	1	0	0	0	11
+Derek Anderson	Car	Pit	6	5	80	1	0	0	0	0	0	0	0	0	0	0	0	0	9
+Jake Locker	Ten	@Cin	34	17	185	0	2	0	6	50	0	0	0	0	0	0	0	0	8
+Teddy Bridgewater	Min	@NO	20	12	150	0	0	0	6	27	0	0	0	0	0	0	0	0	8
+Matthew Stafford	Det	GB	34	22	246	0	2	0	6	8	0	0	0	0	0	0	1	0	4
+Derek Carr	Oak	@NE	34	21	174	0	1	0	0	0	0	0	0	0	0	0	0	0	4
+Matt Cassel	Min	@NO	10	5	53	0	0	0	1	5	0	0	0	0	0	0	0	0	2
+Chad Henne	Jac	Ind	7	4	33	0	0	0	0	0	0	0	0	0	0	0	0	0	1

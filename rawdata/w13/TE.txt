@@ -1,0 +1,36 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Coby Fleener	Ind	Was	0	0	0	0	0	0	0	0	0	0	4	127	2	0	0	0	24
+Jordan Reed	Was	@Ind	0	0	0	0	0	0	0	0	0	0	9	123	0	0	0	0	12
+Martellus Bennett	Chi	@Det	0	0	0	0	0	0	0	0	0	0	8	109	0	0	0	0	10
+Richard Rodgers	GB	NE	0	0	0	0	0	0	0	0	0	0	2	35	1	0	0	0	9
+Rob Gronkowski	NE	@GB	0	0	0	0	0	0	0	0	0	0	7	98	0	0	0	0	9
+Heath Miller	Pit	NO	0	0	0	0	0	0	0	0	0	0	8	82	0	0	0	0	8
+Antonio Gates	SD	@Bal	0	0	0	0	0	0	0	0	0	0	7	83	0	0	0	0	8
+Anthony Fasano	KC	Den	0	0	0	0	0	0	0	0	0	0	1	20	1	0	0	0	8
+Ben Watson	NO	@Pit	0	0	0	0	0	0	0	0	0	0	1	15	1	0	0	0	7
+Levine Toilolo	Atl	Ari	0	0	0	0	0	0	0	0	0	0	4	15	1	0	0	0	7
+Logan Paulsen	Was	@Ind	0	0	0	0	0	0	0	0	0	0	1	16	1	0	0	0	7
+Cory Harkey	Stl	Oak	0	0	0	0	0	0	0	0	0	0	2	12	1	0	0	0	7
+Kyle Rudolph	Min	Car	0	0	0	0	0	0	0	0	0	0	2	7	1	0	0	0	6
+Tony Moeaki	Sea	@SF	0	0	0	0	0	0	0	0	0	0	1	63	0	0	0	0	6
+Ryan Griffin	Hou	Ten	0	0	0	0	0	0	0	0	0	0	1	8	1	0	0	0	6
+Dion Sims	Mia	@NYJ	0	0	0	0	0	0	0	0	0	0	4	58	0	0	0	0	5
+Greg Olsen	Car	@Min	0	0	0	0	0	0	0	0	0	0	5	59	0	0	0	0	5
+Jim Dray	Cle	@Buf	0	0	0	0	0	0	0	0	0	0	3	45	0	0	0	0	4
+Larry Donnell	NYG	@Jac	0	0	0	0	0	0	0	0	0	0	5	55	0	0	1	0	4
+Luke Willson	Sea	@SF	0	0	0	0	0	0	0	0	0	0	4	39	0	0	0	0	3
+Travis Kelce	KC	Den	0	0	0	0	0	0	0	0	0	0	3	36	0	0	0	0	3
+Jermaine Gresham	Cin	@TB	0	0	0	0	0	0	0	0	0	0	5	33	0	0	0	0	3
+Owen Daniels	Bal	SD	0	0	0	0	0	0	0	0	0	0	2	30	0	0	0	0	3
+John Carlson	Ari	@Atl	0	0	0	0	0	0	0	0	0	0	2	38	0	0	0	0	3
+Zach Sudfeld	NYJ	Mia	0	0	0	0	0	0	0	0	0	0	1	20	0	0	0	0	2
+Mychal Rivera	Oak	@Stl	0	0	0	0	0	0	0	0	0	0	3	21	0	0	0	0	2
+Michael Hoomanawanui	NE	@GB	0	0	0	0	0	0	0	0	0	0	1	23	0	0	0	0	2
+Eric Ebron	Det	Chi	0	0	0	0	0	0	0	0	0	0	3	23	0	0	0	0	2
+Andrew Quarless	GB	NE	0	0	0	0	0	0	0	0	0	0	2	17	0	0	0	0	1
+Josh Hill	NO	@Pit	0	0	0	0	0	0	0	0	0	0	1	17	0	0	0	0	1
+Clay Harbor	Jac	NYG	0	0	0	0	0	0	0	0	0	0	1	17	0	0	0	0	1
+Virgil Green	Den	@KC	0	0	0	0	0	0	0	0	0	0	1	10	0	0	0	0	1
+Vernon Davis	SF	Sea	0	0	0	0	0	0	0	0	0	0	2	13	0	0	0	0	1
+Cameron Brate	TB	Cin	0	0	0	0	0	0	0	0	0	0	1	17	0	0	0	0	1

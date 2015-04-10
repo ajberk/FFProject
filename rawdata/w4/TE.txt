@@ -1,0 +1,37 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Larry Donnell	NYG	@Was	0	0	0	0	0	0	0	0	0	0	7	54	3	0	0	0	23
+Travis Kelce	KC	NE	0	0	0	0	0	0	0	0	0	0	8	93	1	0	0	0	15
+Delanie Walker	Ten	@Ind	0	0	0	0	0	0	0	0	0	0	5	84	1	0	0	0	14
+Heath Miller	Pit	TB	0	0	0	0	0	0	0	0	0	0	10	85	1	0	0	0	14
+Jimmy Graham	NO	@Dal	0	0	0	0	0	0	0	0	0	0	8	86	1	0	1	0	13
+Martellus Bennett	Chi	GB	0	0	0	0	0	0	0	0	0	0	9	134	0	0	0	0	13
+Rob Gronkowski	NE	@KC	0	0	0	0	0	0	0	0	0	0	2	31	1	0	0	0	9
+Eric Ebron	Det	@NYJ	0	0	0	0	0	0	0	0	0	0	3	34	1	0	0	0	9
+Dwayne Allen	Ind	Ten	0	0	0	0	0	0	0	0	0	0	3	38	1	0	0	0	9
+Coby Fleener	Ind	Ten	0	0	0	0	0	0	0	0	0	0	2	26	1	0	0	0	8
+Dion Sims	Mia	@Oak	0	0	0	0	0	0	0	0	0	0	1	18	1	0	0	0	7
+Josh Hill	NO	@Dal	0	0	0	0	0	0	0	0	0	0	1	12	1	0	0	0	7
+Clay Harbor	Jac	@SD	0	0	0	0	0	0	0	0	0	0	8	70	0	0	0	0	7
+Jason Witten	Dal	NO	0	0	0	0	0	0	0	0	0	0	5	61	0	0	0	0	6
+Brian Leonhardt	Oak	Mia	0	0	0	0	0	0	0	0	0	0	1	3	1	0	0	0	6
+Nic Jacobs	Jac	@SD	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	0	6
+Daniel Fells	NYG	@Was	0	0	0	0	0	0	0	0	0	0	2	8	1	0	0	0	6
+Richard Rodgers	GB	@Chi	0	0	0	0	0	0	0	0	0	0	2	52	0	0	0	0	5
+Jace Amaro	NYJ	Det	0	0	0	0	0	0	0	0	0	0	5	58	0	0	0	0	5
+Austin Seferian-Jenkins	TB	@Pit	0	0	0	0	0	0	0	0	0	0	3	44	0	0	0	0	4
+Owen Daniels	Bal	Car	0	0	0	0	0	0	0	0	0	0	4	43	0	0	0	0	4
+Greg Olsen	Car	@Bal	0	0	0	0	0	0	0	0	0	0	2	30	0	0	0	0	3
+Antonio Gates	SD	Jac	0	0	0	0	0	0	0	0	0	0	3	30	0	0	0	0	3
+Zach Ertz	Phi	@SF	0	0	0	0	0	0	0	0	0	0	4	43	0	0	1	0	3
+Rhett Ellison	Min	Atl	0	0	0	0	0	0	0	0	0	0	1	19	0	1	0	0	3
+Charles Clay	Mia	@Oak	0	0	0	0	0	0	0	0	0	0	2	32	0	0	0	0	3
+Garrett Graham	Hou	Buf	0	0	0	0	0	0	0	0	0	0	3	28	0	0	0	0	2
+Levine Toilolo	Atl	@Min	0	0	0	0	0	0	0	0	0	0	1	12	0	0	0	0	1
+Adrien Robinson	NYG	@Was	0	0	0	0	0	0	0	0	0	0	1	15	0	0	0	0	1
+Mychal Rivera	Oak	Mia	0	0	0	0	0	0	0	0	0	0	2	10	0	0	0	0	1
+Brandon Pettigrew	Det	@NYJ	0	0	0	0	0	0	0	0	0	0	2	19	0	0	0	0	1
+Logan Paulsen	Was	NYG	0	0	0	0	0	0	0	0	0	0	3	28	0	0	1	0	1
+Chase Ford	Min	Atl	0	0	0	0	0	0	0	0	0	0	1	17	0	0	0	0	1
+Scott Chandler	Buf	@Hou	0	0	0	0	0	0	0	0	0	0	2	15	0	0	0	0	1

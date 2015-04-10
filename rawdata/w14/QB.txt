@@ -1,0 +1,36 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Cam Newton	Car	@NO	33	21	226	3	0	0	12	83	1	0	0	0	0	0	0	0	41
+Matt Ryan	Atl	@GB	39	24	375	4	1	0	2	23	0	0	0	0	0	0	0	0	39
+Ben Roethlisberger	Pit	@Cin	39	25	350	3	0	1	1	-1	0	0	0	0	0	0	0	0	34
+Aaron Rodgers	GB	Atl	36	24	327	3	0	0	5	28	0	0	0	0	0	0	0	0	33
+Russell Wilson	Sea	@Phi	37	22	263	2	0	0	10	48	1	0	0	0	0	0	0	0	32
+Andy Dalton	Cin	Pit	29	21	302	2	0	0	4	22	1	0	0	0	0	0	1	0	31
+Matthew Stafford	Det	TB	34	26	311	3	0	0	3	-2	0	0	0	0	0	0	0	0	30
+Jay Cutler	Chi	Dal	46	32	341	2	1	0	2	9	1	0	0	0	0	0	0	0	29
+Derek Carr	Oak	SF	28	22	254	3	0	0	2	2	0	0	0	0	0	0	0	0	28
+Andrew Luck	Ind	@Cle	53	24	294	2	2	0	5	37	1	0	0	0	0	0	1	0	27
+Joe Flacco	Bal	@Mia	33	25	269	2	1	0	7	16	1	0	0	0	0	0	0	0	27
+Tony Romo	Dal	@Chi	26	21	205	3	0	0	2	-2	0	0	0	0	0	0	0	0	26
+Kyle Orton	Buf	@Den	57	38	355	1	2	0	1	1	1	0	0	0	0	0	0	0	22
+Teddy Bridgewater	Min	NYJ	27	19	309	2	1	0	3	7	0	0	0	0	0	0	0	0	22
+Tom Brady	NE	@SD	44	28	317	2	1	0	4	7	0	0	0	0	0	0	0	0	22
+Shaun Hill	Stl	@Was	22	16	213	2	0	0	2	-1	0	0	0	0	0	0	0	0	20
+Drew Stanton	Ari	KC	30	15	239	1	0	1	4	17	0	0	0	0	0	0	0	0	18
+Geno Smith	NYJ	@Min	29	18	254	1	1	0	6	33	0	0	0	0	0	0	0	0	17
+Alex Smith	KC	@Ari	39	26	293	1	1	0	4	26	0	0	0	0	0	0	0	0	17
+Josh McCown	TB	@Det	39	20	250	2	2	0	4	8	0	0	0	0	0	0	1	0	17
+Ryan Tannehill	Mia	Bal	33	23	227	1	0	0	2	6	0	0	0	0	0	0	0	0	15
+Eli Manning	NYG	@Ten	42	26	260	1	1	0	0	0	0	0	0	0	0	0	0	0	14
+Mark Sanchez	Phi	Sea	20	10	96	2	1	0	1	7	0	0	0	0	0	0	0	0	13
+Drew Brees	NO	Car	49	29	235	1	1	0	1	6	0	0	0	0	0	0	0	0	13
+Blake Bortles	Jac	Hou	39	20	205	1	1	0	3	10	0	0	0	0	0	0	0	0	13
+Ryan Fitzpatrick	Hou	@Jac	19	13	135	0	0	0	9	15	1	0	0	0	0	0	0	0	12
+Philip Rivers	SD	NE	33	20	189	1	1	0	3	8	0	0	0	0	0	0	0	0	11
+Colin Kaepernick	SF	@Oak	33	18	174	1	2	0	3	26	0	0	0	0	0	0	0	0	10
+Colt McCoy	Was	Stl	32	20	199	0	2	0	2	11	0	0	0	0	0	0	0	0	4
+Jake Locker	Ten	NYG	11	9	81	0	1	0	2	28	0	0	0	0	0	0	0	0	3
+Zach Mettenberger	Ten	NYG	24	14	125	0	1	0	1	-1	0	0	0	0	0	0	1	0	2
+Peyton Manning	Den	Buf	20	14	173	0	2	0	2	-2	0	0	0	0	0	0	0	0	2
+Brian Hoyer	Cle	Ind	30	13	136	0	2	0	2	3	0	0	0	0	0	0	0	0	1
+Robert Griffin III	Was	Stl	4	3	33	0	0	0	0	0	0	0	0	0	0	0	0	0	1

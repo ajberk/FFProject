@@ -1,0 +1,35 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Peyton Manning	Den	Ari	47	31	479	4	2	0	2	-2	0	0	0	0	0	0	0	0	39
+Russell Wilson	Sea	@Was	24	18	201	2	0	0	11	122	1	0	0	0	0	0	0	0	38
+Austin Davis	Stl	@Phi	49	29	375	3	0	0	3	30	0	0	0	0	0	0	2	0	34
+Philip Rivers	SD	NYJ	28	20	288	3	1	0	2	3	0	0	0	0	0	0	0	0	27
+Brian Hoyer	Cle	@Ten	37	21	291	3	1	0	1	2	0	0	0	0	0	0	0	0	27
+Jay Cutler	Chi	@Car	36	28	289	2	2	0	3	22	1	0	0	0	0	0	1	0	26
+Aaron Rodgers	GB	Min	17	12	156	3	0	0	0	0	0	0	0	0	0	0	0	0	24
+Tom Brady	NE	Cin	35	23	292	2	0	0	4	13	0	0	0	0	0	0	0	0	24
+Kirk Cousins	Was	Sea	36	21	283	2	0	0	2	4	0	0	0	0	0	0	0	0	23
+Tony Romo	Dal	Hou	41	28	324	2	1	0	0	0	0	0	0	0	0	0	0	0	22
+Andrew Luck	Ind	Bal	49	32	312	1	2	0	6	22	1	0	0	0	0	0	0	0	22
+Andy Dalton	Cin	@NE	24	15	204	2	0	0	2	16	0	0	0	0	0	0	0	0	21
+Eli Manning	NYG	Atl	30	19	200	2	0	0	2	-3	0	0	0	0	0	0	0	0	20
+Drew Brees	NO	TB	57	35	371	2	3	0	1	-1	0	0	0	0	0	0	0	0	20
+Charlie Whitehurst	Ten	Cle	21	13	194	2	0	0	2	-1	0	0	0	0	0	0	0	0	19
+Cam Newton	Car	Chi	35	19	255	2	1	0	6	9	0	0	0	0	0	0	1	0	19
+Mike Glennon	TB	@NO	32	19	249	2	1	0	1	0	0	0	0	0	0	0	0	0	19
+Jake Locker	Ten	Cle	11	8	79	1	0	0	4	34	1	0	0	0	0	0	0	0	18
+Nick Foles	Phi	Stl	37	24	207	2	1	0	2	13	0	0	0	0	0	0	1	0	18
+Matt Ryan	Atl	@NYG	45	29	316	1	1	0	0	0	0	0	0	0	0	0	0	0	16
+Kyle Orton	Buf	@Det	43	30	308	1	1	0	1	0	0	0	0	0	0	0	0	0	16
+Ben Roethlisberger	Pit	@Jac	36	26	273	1	0	0	3	-2	0	0	0	0	0	0	1	0	15
+Colin Kaepernick	SF	KC	26	14	201	1	0	0	10	18	0	0	0	0	0	0	0	0	15
+Matthew Stafford	Det	Buf	31	18	231	1	1	0	3	8	0	0	0	0	0	0	0	0	13
+Christian Ponder	Min	@GB	44	22	222	0	2	0	3	15	1	0	0	0	0	0	0	0	11
+Alex Smith	KC	@SF	30	16	158	1	1	0	1	6	0	0	0	0	0	0	0	0	10
+Logan Thomas	Ari	@Den	8	1	81	1	0	0	0	0	0	0	0	0	0	0	0	0	9
+Joe Flacco	Bal	@Ind	38	22	235	0	1	0	0	0	0	0	0	0	0	0	0	0	7
+Drew Stanton	Ari	@Den	26	11	118	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Ryan Fitzpatrick	Hou	@Dal	25	16	154	0	1	0	3	3	0	0	0	0	0	0	0	0	4
+Blake Bortles	Jac	Pit	36	22	191	0	2	0	4	14	0	0	0	0	0	0	0	0	4
+Michael Vick	NYJ	@SD	19	8	47	0	0	0	2	14	0	0	0	0	0	0	0	0	2
+Jason Campbell	Cin	@NE	5	3	45	0	0	0	0	0	0	0	0	0	0	0	0	0	1

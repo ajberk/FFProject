@@ -1,0 +1,31 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Aaron Rodgers	GB	Phi	36	22	341	3	0	0	3	32	0	0	0	0	0	0	0	0	34
+Jay Cutler	Chi	Min	43	31	330	3	2	0	5	21	0	0	0	0	0	0	0	0	29
+Andy Dalton	Cin	@NO	22	16	220	3	0	0	5	12	0	0	0	0	0	0	0	0	27
+Russell Wilson	Sea	@KC	32	20	178	2	0	0	8	71	0	0	0	0	0	0	0	0	26
+Josh McCown	TB	@Was	23	15	288	2	0	0	3	8	0	0	0	0	0	0	0	0	23
+Andrew Luck	Ind	NE	39	23	303	2	1	0	3	15	0	0	0	0	0	0	0	0	23
+Cam Newton	Car	Atl	37	23	292	2	2	0	5	30	0	0	0	0	0	0	0	0	22
+Ryan Tannehill	Mia	Buf	34	26	240	2	0	0	4	16	0	0	1	-4	0	0	1	0	21
+Drew Stanton	Ari	Det	32	21	306	2	2	0	4	-4	0	0	0	0	0	0	0	0	20
+Zach Mettenberger	Ten	Pit	24	15	263	2	1	0	0	0	0	0	0	0	0	0	0	0	20
+Mark Sanchez	Phi	@GB	44	26	346	2	2	0	3	0	0	0	0	0	0	0	2	0	19
+Ryan Mallett	Hou	@Cle	30	20	211	2	1	0	4	-3	0	0	0	0	0	0	0	0	18
+Tom Brady	NE	@Ind	30	19	257	2	2	0	2	-2	0	0	0	0	0	0	0	0	18
+Peyton Manning	Den	@Stl	54	34	389	1	2	0	1	-1	0	0	0	0	0	0	0	0	17
+Brian Hoyer	Cle	Hou	50	20	330	1	1	0	2	1	0	0	0	0	0	0	0	0	17
+Matt Ryan	Atl	@Car	45	31	268	1	0	0	1	4	0	0	0	0	0	0	0	0	16
+Drew Brees	NO	Cin	41	33	255	1	0	0	1	3	0	0	0	0	0	0	0	0	16
+Colin Kaepernick	SF	@NYG	29	15	193	1	0	0	8	24	0	0	0	0	0	0	0	0	15
+Shaun Hill	Stl	Den	29	20	220	1	0	0	0	0	0	0	1	0	0	0	0	0	14
+Robert Griffin III	Was	TB	32	23	207	1	2	0	6	41	0	0	0	0	0	0	0	0	14
+Philip Rivers	SD	Oak	34	22	193	1	0	0	1	-1	0	0	0	0	0	0	0	0	13
+Ben Roethlisberger	Pit	@Ten	32	21	207	1	1	0	3	2	0	0	0	0	0	0	0	0	12
+Teddy Bridgewater	Min	@Chi	28	18	158	1	1	0	4	2	0	0	0	0	0	0	0	0	10
+Kyle Orton	Buf	@Mia	39	22	193	0	0	0	2	2	0	0	0	0	0	0	0	0	7
+Eli Manning	NYG	SF	45	22	280	1	5	0	0	0	0	0	0	0	0	0	0	0	7
+Matthew Stafford	Det	@Ari	30	18	183	0	1	0	0	0	0	0	0	0	0	0	0	0	5
+Derek Carr	Oak	@SD	34	16	172	0	0	0	2	0	0	0	0	0	0	0	1	0	5
+Alex Smith	KC	Sea	16	11	108	0	0	0	2	-1	0	0	0	0	0	0	0	0	4
+Matt Flynn	GB	Phi	2	2	26	0	0	0	3	-3	0	0	0	0	0	0	0	0	1

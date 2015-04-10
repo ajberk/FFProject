@@ -1,0 +1,43 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Martellus Bennett	Chi	@NYJ	0	0	0	0	0	0	0	0	0	0	5	54	2	0	0	0	17
+Greg Olsen	Car	Pit	0	0	0	0	0	0	0	0	0	0	5	69	1	0	0	0	12
+Andrew Quarless	GB	@Det	0	0	0	0	0	0	0	0	0	0	4	43	1	0	0	0	10
+Josh Hill	NO	Min	0	0	0	0	0	0	0	0	0	0	2	48	1	0	0	0	10
+Rob Gronkowski	NE	Oak	0	0	0	0	0	0	0	0	0	0	3	44	1	0	0	0	10
+Coby Fleener	Ind	@Jac	0	0	0	0	0	0	0	0	0	0	4	49	1	0	0	0	10
+Dwayne Allen	Ind	@Jac	0	0	0	0	0	0	0	0	0	0	4	43	1	0	0	0	10
+Travis Kelce	KC	@Mia	0	0	0	0	0	0	0	0	0	0	3	36	1	0	0	0	9
+Jacob Tamme	Den	@Sea	0	0	0	0	0	0	0	0	0	0	2	22	1	0	0	0	8
+Lance Kendricks	Stl	Dal	0	0	0	0	0	0	0	0	0	0	6	29	1	0	0	0	8
+Daniel Fells	NYG	Hou	0	0	0	0	0	0	0	0	0	0	2	22	1	0	0	0	8
+Julius Thomas	Den	@Sea	0	0	0	0	0	0	0	0	0	0	3	17	1	0	0	0	7
+Jared Cook	Stl	Dal	0	0	0	0	0	0	1	0	0	0	7	75	0	0	0	0	7
+Scott Chandler	Buf	SD	0	0	0	0	0	0	0	0	0	0	5	74	0	0	0	0	7
+Ladarius Green	SD	@Buf	0	0	0	0	0	0	0	0	0	0	4	64	0	0	0	0	6
+Delanie Walker	Ten	@Cin	0	0	0	0	0	0	0	0	0	0	4	54	0	0	0	0	5
+Heath Miller	Pit	@Car	0	0	0	0	0	0	0	0	0	0	4	51	0	0	0	0	5
+Jimmy Graham	NO	Min	0	0	0	0	0	0	0	0	0	0	6	54	0	0	0	0	5
+Jace Amaro	NYJ	Chi	0	0	0	0	0	0	0	0	0	0	3	54	0	0	0	0	5
+Jason Witten	Dal	@Stl	0	0	0	0	0	0	0	0	0	0	4	49	0	0	0	0	4
+Garrett Graham	Hou	@NYG	0	0	0	0	0	0	0	0	0	0	5	41	0	0	0	0	4
+Brandon Myers	TB	@Atl	0	0	0	0	0	0	0	0	0	0	5	33	0	0	0	0	3
+Larry Donnell	NYG	Hou	0	0	0	0	0	0	0	0	0	0	6	45	0	0	1	0	3
+John Carlson	Ari	SF	0	0	0	0	0	0	0	0	0	0	3	33	0	0	0	0	3
+Craig Stevens	Ten	@Cin	0	0	0	0	0	0	0	0	0	0	2	26	0	0	0	0	2
+Kyle Rudolph	Min	@NO	0	0	0	0	0	0	0	0	0	0	3	27	0	0	0	0	2
+Anthony Fasano	KC	@Mia	0	0	0	0	0	0	0	0	0	0	2	23	0	0	0	0	2
+Charles Clay	Mia	KC	0	0	0	0	0	0	0	0	0	0	3	21	0	0	0	0	2
+Jordan Cameron	Cle	Bal	0	0	0	0	0	0	0	0	0	0	1	23	0	0	0	0	2
+Ben Watson	NO	Min	0	0	0	0	0	0	0	0	0	0	1	10	0	0	0	0	1
+Levine Toilolo	Atl	TB	0	0	0	0	0	0	0	0	0	0	2	25	0	0	1	0	1
+Zach Sudfeld	NYJ	Chi	0	0	0	0	0	0	0	0	0	0	1	15	0	0	0	0	1
+Luke Stocker	TB	@Atl	0	0	0	0	0	0	0	0	0	0	2	15	0	0	0	0	1
+Mychal Rivera	Oak	@NE	0	0	0	0	0	0	0	0	0	0	2	11	0	0	0	0	1
+Dennis Pitta	Bal	@Cle	0	0	0	0	0	0	0	0	0	0	3	12	0	0	0	0	1
+Zach Miller	Sea	Den	0	0	0	0	0	0	0	0	0	0	2	12	0	0	0	0	1
+Virgil Green	Den	@Sea	0	0	0	0	0	0	1	0	0	0	1	10	0	0	0	0	1
+Zach Ertz	Phi	Was	0	0	0	0	0	0	0	0	0	0	2	14	0	0	0	0	1
+Jack Doyle	Ind	@Jac	0	0	0	0	0	0	0	0	0	0	3	10	0	0	0	0	1
+James Casey	Phi	Was	0	0	0	0	0	0	0	0	0	0	1	19	0	0	0	0	1

@@ -1,0 +1,32 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Eli Manning	NYG	@Was	39	28	300	4	1	0	1	1	1	0	0	0	0	0	0	0	40
+Andrew Luck	Ind	Ten	41	29	393	4	1	0	1	-1	0	0	0	0	0	0	0	0	37
+Aaron Rodgers	GB	@Chi	28	22	302	4	0	0	1	8	0	0	0	0	0	0	0	0	36
+Philip Rivers	SD	Jac	39	29	377	3	0	0	1	0	0	0	0	0	0	0	0	0	33
+Joe Flacco	Bal	Car	31	22	327	3	0	0	1	3	0	0	0	0	0	0	0	0	31
+Tony Romo	Dal	NO	29	22	262	3	0	0	6	20	0	0	0	0	0	0	0	0	30
+Matthew Stafford	Det	@NYJ	34	24	293	2	0	0	6	8	1	0	0	0	0	0	0	0	29
+Ben Roethlisberger	Pit	TB	40	29	314	3	0	0	2	4	0	0	0	-6	0	0	1	0	29
+Alex Smith	KC	NE	26	20	248	3	0	0	4	8	0	0	0	0	0	0	0	0	27
+Matt Ryan	Atl	@Min	41	25	298	3	2	0	2	2	0	0	0	0	0	0	0	0	25
+Ryan Tannehill	Mia	@Oak	31	23	278	2	1	0	5	35	0	0	0	0	0	0	0	0	24
+Colin Kaepernick	SF	Phi	30	17	218	2	1	0	7	58	0	0	0	0	0	0	0	0	23
+Drew Brees	NO	@Dal	44	32	340	2	1	0	1	6	0	0	0	0	0	0	0	0	23
+Mike Glennon	TB	@Pit	42	21	302	2	1	0	0	0	0	0	0	0	0	0	0	0	22
+Teddy Bridgewater	Min	Atl	30	19	317	0	0	1	5	27	1	0	0	0	0	0	0	0	22
+Jay Cutler	Chi	GB	34	22	256	2	2	0	3	29	0	0	0	0	0	0	0	0	20
+E.J. Manuel	Buf	@Hou	44	21	225	2	2	0	1	3	0	0	0	0	0	0	0	0	17
+Charlie Whitehurst	Ten	@Ind	23	12	177	1	1	0	5	40	0	0	0	0	0	0	0	0	15
+Blake Bortles	Jac	@SD	37	29	254	1	2	0	5	24	0	0	0	0	0	0	0	0	14
+Cam Newton	Car	@Bal	25	14	197	1	0	0	2	7	0	0	0	0	0	0	0	0	13
+Ryan Fitzpatrick	Hou	Buf	37	25	268	1	2	0	5	14	0	0	0	0	0	0	0	0	13
+Geno Smith	NYJ	Det	33	17	209	1	1	0	4	4	0	0	0	0	0	0	1	0	11
+Derek Carr	Oak	Mia	25	16	146	1	1	0	2	9	0	0	0	0	0	0	0	0	9
+Jimmy Garoppolo	NE	@KC	7	6	70	1	0	0	0	0	0	0	0	0	0	0	0	0	8
+Kirk Cousins	Was	NYG	33	19	257	1	4	0	1	12	0	0	0	0	0	0	1	0	8
+Matt McGloin	Oak	Mia	19	12	129	1	2	0	2	3	0	0	0	0	0	0	0	0	7
+Tom Brady	NE	@KC	23	14	159	1	2	0	0	0	0	0	0	0	0	0	1	0	7
+Nick Foles	Phi	@SF	43	21	195	0	2	0	1	1	0	0	0	0	0	0	0	0	3
+Derek Anderson	Car	@Bal	9	6	71	0	0	0	0	0	0	0	0	0	0	0	0	0	2

@@ -1,0 +1,26 @@
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Adam Vinatieri	Ind	@NYG	4	4	4	4	0	16
+Caleb Sturgis	Mia	SD	4	4	4	3	0	13
+Stephen Gostkowski	NE	Den	4	4	3	3	0	13
+Steven Hauschka	Sea	Oak	3	3	4	3	0	12
+Billy Cundiff	Cle	TB	1	1	3	3	0	10
+Kai Forbath	Was	@Min	2	2	2	2	0	8
+Greg Zuerlein	Stl	@SF	1	1	2	2	0	7
+Cody Parkey	Phi	@Hou	4	4	1	1	0	7
+Mike Nugent	Cin	Jac	4	4	1	1	0	7
+Dan Bailey	Dal	Ari	2	2	2	1	1	7
+Cairo Santos	KC	NYJ	3	3	1	1	0	6
+Sebastian Janikowski	Oak	@Sea	3	3	2	1	0	6
+Josh Brown	NYG	Ind	3	3	1	1	0	6
+Justin Tucker	Bal	@Pit	2	2	1	1	0	5
+Shaun Suisham	Pit	Bal	5	5	0	0	0	5
+Josh Scobee	Jac	@Cin	2	2	1	1	0	5
+Patrick Murray	TB	@Cle	2	2	3	1	0	5
+Shayne Graham	NO	@Car	4	4	0	0	0	4
+Graham Gano	Car	NO	1	1	1	1	0	4
+Nick Folk	NYJ	@KC	1	1	1	1	0	4
+Phil Dawson	SF	Stl	1	1	2	1	0	4
+Chandler Catanzaro	Ari	@Dal	4	4	0	0	0	4
+Blair Walsh	Min	Was	3	3	0	0	0	3
+Brandon McManus	Den	@NE	3	3	1	0	0	3
+Randy Bullock	Hou	Phi	3	3	1	0	0	3

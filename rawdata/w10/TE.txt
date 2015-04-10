@@ -1,0 +1,35 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Jimmy Graham	NO	SF	0	0	0	0	0	0	0	0	0	0	10	76	2	0	0	0	19
+Julius Thomas	Den	@Oak	0	0	0	0	0	0	0	0	0	0	6	63	2	0	0	0	18
+Jared Cook	Stl	@Ari	0	0	0	0	0	0	0	0	0	0	2	84	1	0	0	0	14
+Mychal Rivera	Oak	Den	0	0	0	0	0	0	0	0	0	0	6	64	1	0	0	0	12
+Greg Olsen	Car	@Phi	0	0	0	0	0	0	0	0	0	0	6	119	0	0	0	0	11
+Brent Celek	Phi	Car	0	0	0	0	0	0	0	0	0	0	5	116	0	0	0	0	11
+Jason Witten	Dal	@Jac	0	0	0	0	0	0	0	0	0	0	5	33	1	0	0	0	9
+Austin Seferian-Jenkins	TB	Atl	0	0	0	0	0	0	0	0	0	0	5	30	1	0	0	0	9
+Andrew Quarless	GB	Chi	0	0	0	0	0	0	0	0	0	0	2	10	1	0	0	0	7
+Brandon Bostick	GB	Chi	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	6
+Jace Amaro	NYJ	Pit	0	0	0	0	0	0	0	0	0	0	2	6	1	0	0	0	6
+Charles Clay	Mia	@Det	0	0	0	0	0	0	0	0	0	0	7	45	0	0	0	0	4
+Martellus Bennett	Chi	@GB	0	0	0	0	0	0	0	0	0	0	2	45	0	0	0	0	4
+Gary Barnidge	Cle	@Cin	0	0	0	0	0	0	0	0	0	0	2	46	0	0	0	0	4
+Delanie Walker	Ten	@Bal	0	0	0	0	0	0	0	0	0	0	3	37	0	0	0	0	3
+Lance Kendricks	Stl	@Ari	0	0	0	0	0	0	0	0	0	0	2	30	0	0	0	0	3
+Cooper Helfet	Sea	NYG	0	0	0	0	0	0	0	0	0	0	1	32	0	0	0	0	3
+Jed Collins	Det	Mia	0	0	0	0	0	0	0	0	0	0	2	30	0	0	0	0	3
+John Carlson	Ari	Stl	0	0	0	0	0	0	0	0	0	0	2	33	0	0	0	0	3
+Heath Miller	Pit	@NYJ	0	0	0	0	0	0	0	0	0	0	3	29	0	0	0	0	2
+Clay Harbor	Jac	Dal	0	0	0	0	0	0	0	0	0	0	3	28	0	0	0	0	2
+Jermaine Gresham	Cin	Cle	0	0	0	0	0	0	0	0	0	0	3	29	0	0	0	0	2
+Larry Donnell	NYG	@Sea	0	0	0	0	0	0	0	0	0	0	4	26	0	0	0	0	2
+Owen Daniels	Bal	Ten	0	0	0	0	0	0	0	0	0	0	2	20	0	0	0	0	2
+Ben Watson	NO	SF	0	0	0	0	0	0	0	0	0	0	1	13	0	0	0	0	1
+Troy Niklas	Ari	Stl	0	0	0	0	0	0	0	0	0	0	1	17	0	0	0	0	1
+Travis Kelce	KC	@Buf	0	0	0	0	0	0	0	0	0	0	2	19	0	0	0	0	1
+Nic Jacobs	Jac	Dal	0	0	0	0	0	0	0	0	0	0	1	14	0	0	0	0	1
+Rob Housler	Ari	Stl	0	0	0	0	0	0	0	0	0	0	1	11	0	0	0	0	1
+Daniel Fells	NYG	@Sea	0	0	0	0	0	0	0	0	0	0	1	12	0	0	0	0	1
+Gavin Escobar	Dal	@Jac	0	0	0	0	0	0	0	0	0	0	1	14	0	0	0	0	1
+Zach Ertz	Phi	Car	0	0	0	0	0	0	0	0	0	0	1	17	0	0	0	0	1
+Scott Chandler	Buf	KC	0	0	0	0	0	0	0	0	0	0	3	17	0	0	0	0	1

@@ -1,0 +1,39 @@
+
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Gavin Escobar	Dal	NYG	0	0	0	0	0	0	0	0	0	0	3	65	2	0	0	0	18
+Cooper Helfet	Sea	@Stl	0	0	0	0	0	0	0	0	0	0	3	61	1	0	0	0	12
+Antonio Gates	SD	KC	0	0	0	0	0	0	0	0	0	0	3	61	1	0	0	0	12
+Owen Daniels	Bal	Atl	0	0	0	0	0	0	0	0	0	0	6	58	1	0	0	0	11
+Charles Clay	Mia	@Chi	0	0	0	0	0	0	0	0	0	0	4	58	1	0	0	0	11
+Dwayne Allen	Ind	Cin	0	0	0	0	0	0	0	0	0	0	3	52	1	0	0	0	11
+Greg Olsen	Car	@GB	0	0	0	0	0	0	0	0	0	0	8	105	0	0	0	0	10
+Daniel Fells	NYG	@Dal	0	0	0	0	0	0	0	0	0	0	1	27	1	0	0	0	8
+Lance Kendricks	Stl	Sea	0	0	0	0	0	0	0	0	0	0	2	17	1	0	0	0	7
+Larry Donnell	NYG	@Dal	0	0	0	0	0	0	0	0	0	0	7	90	0	0	2	0	7
+John Phillips	SD	KC	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	6
+Rob Gronkowski	NE	NYJ	0	0	0	0	0	0	0	0	0	0	5	68	0	0	0	0	6
+Coby Fleener	Ind	Cin	0	0	0	0	0	0	0	0	0	0	4	64	0	0	0	0	6
+Jordan Reed	Was	Ten	0	0	0	0	0	0	0	0	0	0	5	54	0	0	0	0	5
+Martellus Bennett	Chi	Mia	0	0	0	0	0	0	0	0	0	0	5	58	0	0	0	0	5
+Jermaine Gresham	Cin	@Ind	0	0	0	0	0	0	0	0	0	0	10	48	0	0	0	0	4
+Dion Sims	Mia	@Chi	0	0	0	0	0	0	0	0	0	0	2	33	0	0	0	0	3
+Travis Kelce	KC	@SD	0	0	0	0	0	0	0	0	0	0	4	33	0	0	0	0	3
+Clay Harbor	Jac	Cle	0	0	0	0	0	0	0	0	0	0	6	34	0	0	0	0	3
+Scott Chandler	Buf	Min	0	0	0	0	0	0	0	0	0	0	3	36	0	0	0	0	3
+Jason Witten	Dal	NYG	0	0	0	0	0	0	0	0	0	0	2	27	0	0	0	0	2
+Brandon Williams	Car	@GB	0	0	0	0	0	0	0	0	0	0	2	22	0	0	0	0	2
+Levine Toilolo	Atl	@Bal	0	0	0	0	0	0	0	0	0	0	2	20	0	0	0	0	2
+Julius Thomas	Den	SF	0	0	0	0	0	0	0	0	0	0	4	27	0	0	0	0	2
+Brandon Pettigrew	Det	NO	0	0	0	0	0	0	0	0	0	0	4	28	0	0	0	0	2
+Garrett Graham	Hou	@Pit	0	0	0	0	0	0	0	0	0	0	2	24	0	0	0	0	2
+Jack Doyle	Ind	Cin	0	0	0	0	0	0	0	0	0	0	1	20	0	0	0	0	2
+Vernon Davis	SF	@Den	0	0	0	0	0	0	0	0	0	0	2	21	0	0	0	0	2
+Jared Cook	Stl	Sea	0	0	0	0	0	0	0	0	0	0	3	25	0	0	0	0	2
+John Carlson	Ari	@Oak	0	0	0	0	0	0	0	0	0	0	2	20	0	0	0	0	2
+Jace Amaro	NYJ	@NE	0	0	0	0	0	0	0	0	0	0	3	22	0	0	0	0	2
+Delanie Walker	Ten	@Was	0	0	0	0	0	0	0	0	0	0	2	17	0	0	0	0	1
+Mychal Rivera	Oak	Ari	0	0	0	0	0	0	0	0	0	0	1	18	0	0	0	0	1
+Heath Miller	Pit	Hou	0	0	0	0	0	0	0	0	0	0	1	13	0	0	0	0	1
+Chris Gragg	Buf	Min	0	0	0	0	0	0	0	0	0	0	2	19	0	0	0	0	1
+Crockett Gillmore	Bal	Atl	0	0	0	0	0	0	0	0	0	0	1	13	0	0	0	0	1

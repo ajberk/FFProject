@@ -1,0 +1,36 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Coby Fleener	Ind	NE	0	0	0	0	0	0	0	0	0	0	7	144	0	0	0	0	14
+Rob Gronkowski	NE	@Ind	0	0	0	0	0	0	0	0	0	0	4	71	1	0	0	0	13
+Jermaine Gresham	Cin	@NO	0	0	0	0	0	0	0	0	0	0	2	13	2	0	0	0	13
+Larry Donnell	NYG	SF	0	0	0	0	0	0	0	0	0	0	3	54	1	0	0	0	11
+Garrett Graham	Hou	@Cle	0	0	0	0	0	0	0	0	0	0	2	34	1	0	0	0	9
+Chase Coffman	Ten	Pit	0	0	0	0	0	0	0	0	0	0	3	32	1	0	0	0	9
+Heath Miller	Pit	@Ten	0	0	0	0	0	0	0	0	0	0	5	71	0	0	0	0	7
+Greg Olsen	Car	Atl	0	0	0	0	0	0	0	0	0	0	5	61	0	0	0	0	6
+Tony Moeaki	Sea	@KC	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	6
+Rhett Ellison	Min	@Chi	0	0	0	0	0	0	0	0	0	0	1	7	1	0	0	0	6
+Luke Willson	Sea	@KC	0	0	0	0	0	0	0	0	0	0	3	51	0	0	0	0	5
+Zach Ertz	Phi	@GB	0	0	0	0	0	0	0	0	0	0	4	55	0	0	0	0	5
+Mychal Rivera	Oak	@SD	0	0	0	0	0	0	0	0	0	0	3	40	0	0	0	0	4
+Jim Dray	Cle	Hou	0	0	0	0	0	0	0	0	0	0	2	46	0	0	0	0	4
+Jacob Tamme	Den	@Stl	0	0	0	0	0	0	0	0	0	0	4	31	0	0	0	0	3
+Andrew Quarless	GB	Phi	0	0	0	0	0	0	0	0	0	0	2	35	0	0	0	0	3
+Antonio Gates	SD	Oak	0	0	0	0	0	0	0	0	0	0	3	32	0	0	0	0	3
+Charles Clay	Mia	Buf	0	0	0	0	0	0	0	0	0	0	5	31	0	0	0	0	3
+John Carlson	Ari	Det	0	0	0	0	0	0	0	0	0	0	3	37	0	0	0	0	3
+Levine Toilolo	Atl	@Car	0	0	0	0	0	0	0	0	0	0	2	23	0	0	0	0	2
+Jordan Reed	Was	TB	0	0	0	0	0	0	0	0	0	0	2	22	0	0	0	0	2
+Brandon Myers	TB	@Was	0	0	0	0	0	0	0	0	0	0	1	21	0	0	0	0	2
+Travis Kelce	KC	Sea	0	0	0	0	0	0	0	0	0	0	3	37	0	0	1	0	2
+Rob Housler	Ari	Det	0	0	0	0	0	0	0	0	0	0	1	27	0	0	0	0	2
+Jimmy Graham	NO	Cin	0	0	0	0	0	0	0	0	0	0	3	29	0	0	0	0	2
+Eric Ebron	Det	@Ari	0	0	0	0	0	0	0	0	0	0	4	22	0	0	0	0	2
+Ed Dickson	Car	Atl	0	0	0	0	0	0	0	0	0	0	2	20	0	0	0	0	2
+Martellus Bennett	Chi	Min	0	0	0	0	0	0	0	0	0	0	4	29	0	0	0	0	2
+Dion Sims	Mia	Buf	0	0	0	0	0	0	0	0	0	0	2	11	0	0	0	0	1
+Richard Rodgers	GB	Phi	0	0	0	0	0	0	0	0	0	0	1	19	0	0	0	0	1
+Ladarius Green	SD	Oak	0	0	0	0	0	0	0	0	0	0	1	11	0	0	0	0	1
+Jared Cook	Stl	Den	0	0	0	0	0	0	0	0	0	0	3	19	0	0	0	0	1
+Brent Celek	Phi	@GB	0	0	0	0	0	0	0	0	0	0	1	11	0	0	0	0	1
+Gary Barnidge	Cle	Hou	0	0	0	0	0	0	0	0	0	0	1	11	0	0	0	0	1

@@ -1,0 +1,37 @@
+   Passing	Rushing	Receiving	Fumbles
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Rob Gronkowski	NE	Mia	0	0	0	0	0	0	0	0	0	0	3	96	1	0	0	0	15
+Josh Hill	NO	@Chi	0	0	0	0	0	0	0	0	0	0	2	15	2	0	0	0	13
+Owen Daniels	Bal	Jac	0	0	0	0	0	0	0	0	0	0	4	62	1	0	0	0	12
+Greg Olsen	Car	TB	0	0	0	0	0	0	0	0	0	0	10	110	0	0	0	0	11
+Antonio Gates	SD	Den	0	0	0	0	0	0	0	0	0	0	6	54	1	0	0	0	11
+Travis Kelce	KC	Oak	0	0	0	0	0	0	0	0	0	0	5	59	1	0	1	0	10
+Delanie Walker	Ten	NYJ	0	0	0	0	0	0	0	0	0	0	4	93	0	0	0	0	9
+Jimmy Graham	NO	@Chi	0	0	0	0	0	0	0	0	0	0	5	87	0	0	0	0	8
+Dwayne Allen	Ind	Hou	0	0	0	0	0	0	0	0	0	0	2	16	1	0	0	0	7
+Jason Witten	Dal	@Phi	0	0	0	0	0	0	0	0	0	0	7	69	0	0	0	0	6
+Kyle Rudolph	Min	@Det	0	0	0	0	0	0	0	0	0	0	7	69	0	0	0	0	6
+Heath Miller	Pit	@Atl	0	0	0	0	0	0	0	0	0	0	4	68	0	0	0	0	6
+Charles Clay	Mia	@NE	0	0	0	0	0	0	0	0	0	0	6	59	0	0	0	0	5
+Martellus Bennett	Chi	NO	0	0	0	0	0	0	0	0	0	0	4	36	0	1	0	0	5
+Brent Celek	Phi	Dal	0	0	0	0	0	0	0	0	0	0	4	52	0	0	1	0	4
+Julius Thomas	Den	@SD	0	0	0	0	0	0	0	0	0	0	1	30	0	0	0	0	3
+Mychal Rivera	Oak	@KC	0	0	0	0	0	0	0	0	0	0	7	39	0	0	0	0	3
+Ryan Hewitt	Cin	@Cle	0	0	0	0	0	0	0	0	0	0	3	34	0	0	0	0	3
+Crockett Gillmore	Bal	Jac	0	0	0	0	0	0	0	0	0	0	2	37	0	0	0	0	3
+Coby Fleener	Ind	Hou	0	0	0	0	0	0	0	0	0	0	2	32	0	0	0	0	3
+Zach Ertz	Phi	Dal	0	0	0	0	0	0	0	0	0	0	3	32	0	0	0	0	3
+Garrett Celek	SF	@Sea	0	0	0	0	0	0	0	0	0	0	1	31	0	0	0	0	3
+Marcedes Lewis	Jac	@Bal	0	0	0	0	0	0	0	0	0	0	2	22	0	0	0	0	2
+Cory Harkey	Stl	Ari	0	0	0	0	0	0	0	0	0	0	1	21	0	0	0	0	2
+Jared Cook	Stl	Ari	0	0	0	0	0	0	0	0	0	0	3	22	0	0	0	0	2
+Scott Chandler	Buf	GB	0	0	0	0	0	0	0	0	0	0	2	22	0	0	0	0	2
+Jace Amaro	NYJ	@Ten	0	0	0	0	0	0	0	0	0	0	1	20	0	0	0	0	2
+Jordan Reed	Was	@NYG	0	0	0	0	0	0	0	0	0	0	3	13	0	0	0	0	1
+Lance Kendricks	Stl	Ari	0	0	0	0	0	0	0	0	0	0	1	10	0	0	0	0	1
+James Hanna	Dal	@Phi	0	0	0	0	0	0	0	0	0	0	1	12	0	0	0	0	1
+Ryan Griffin	Hou	@Ind	0	0	0	0	0	0	0	0	0	0	2	11	0	0	0	0	1
+Daniel Fells	NYG	Was	0	0	0	0	0	0	0	0	0	0	1	16	0	0	0	0	1
+Eric Ebron	Det	Min	0	0	0	0	0	0	0	0	0	0	1	11	0	0	0	0	1
+Larry Donnell	NYG	Was	0	0	0	0	0	0	0	0	0	0	2	11	0	0	0	0	1
+John Carlson	Ari	@Stl	0	0	0	0	0	0	0	0	0	0	1	11	0	0	0	0	1

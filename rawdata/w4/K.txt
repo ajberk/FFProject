@@ -1,0 +1,28 @@
+
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Blair Walsh	Min	Atl	3	3	5	4	1	17
+Phil Dawson	SF	Phi	2	2	4	4	1	16
+Nick Novak	SD	Jac	3	3	4	4	0	15
+Randy Bullock	Hou	Buf	2	2	3	3	2	15
+Adam Vinatieri	Ind	Ten	5	5	2	2	0	11
+Cairo Santos	KC	NE	5	5	2	2	0	11
+Patrick Murray	TB	@Pit	3	3	2	2	1	11
+Mason Crosby	GB	@Chi	5	5	2	1	1	10
+Dan Bailey	Dal	NO	5	5	1	1	1	10
+Josh Brown	NYG	@Was	6	6	1	1	0	9
+Justin Tucker	Bal	Car	5	5	2	1	0	8
+Caleb Sturgis	Mia	@Oak	5	5	1	1	0	8
+Alex Henery	Det	@NYJ	3	3	2	1	1	8
+Shaun Suisham	Pit	TB	3	3	2	1	0	6
+Ryan Succop	Ten	@Ind	2	2	1	1	0	5
+Shayne Graham	NO	@Dal	2	2	2	1	0	5
+Robbie Gould	Chi	GB	2	2	1	1	0	5
+Nick Folk	NYJ	Det	2	2	1	1	0	5
+Dan Carpenter	Buf	@Hou	2	2	1	1	0	5
+Graham Gano	Car	@Bal	1	1	1	1	0	4
+Matt Bryant	Atl	@Min	4	4	0	0	0	4
+Cody Parkey	Phi	@SF	3	3	0	0	0	3
+Josh Scobee	Jac	@SD	2	2	0	0	0	2
+Sebastian Janikowski	Oak	Mia	2	2	0	0	0	2
+Stephen Gostkowski	NE	@KC	2	2	0	0	0	2
+Kai Forbath	Was	NYG	2	2	0	0	0	2
