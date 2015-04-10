@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jeremy Maclin	Phi	@Hou	0	0	0	0	0	0	0	0	0	0	6	158	2	0	0	0	27
 Mike Evans	TB	@Cle	0	0	0	0	0	0	0	0	0	0	7	124	2	0	0	0	24
 Allen Hurns	Jac	@Cin	0	0	0	0	0	0	0	0	0	0	7	112	2	0	0	0	23

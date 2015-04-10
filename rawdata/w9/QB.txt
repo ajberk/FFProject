@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Ben Roethlisberger	Pit	Bal	37	25	340	6	0	0	2	1	0	0	0	0	0	0	1	0	48
 Andrew Luck	Ind	@NYG	46	25	354	4	0	0	2	5	0	0	0	0	0	0	0	0	38
 Tom Brady	NE	Den	53	33	333	4	1	0	2	4	0	0	0	0	0	0	0	0	35

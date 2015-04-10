@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Eli Manning	NYG	@Was	39	28	300	4	1	0	1	1	1	0	0	0	0	0	0	0	40
 Andrew Luck	Ind	Ten	41	29	393	4	1	0	1	-1	0	0	0	0	0	0	0	0	37
 Aaron Rodgers	GB	@Chi	28	22	302	4	0	0	1	8	0	0	0	0	0	0	0	0	36

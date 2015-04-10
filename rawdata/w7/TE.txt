@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Gavin Escobar	Dal	NYG	0	0	0	0	0	0	0	0	0	0	3	65	2	0	0	0	18
 Cooper Helfet	Sea	@Stl	0	0	0	0	0	0	0	0	0	0	3	61	1	0	0	0	12
 Antonio Gates	SD	KC	0	0	0	0	0	0	0	0	0	0	3	61	1	0	0	0	12

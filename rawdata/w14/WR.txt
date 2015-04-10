@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Julio Jones	Atl	@GB	0	0	0	0	0	0	0	0	0	0	11	259	1	0	0	0	31
 A.J. Green	Cin	Pit	0	0	0	0	0	0	0	0	0	0	11	224	1	0	0	0	28
 Jordy Nelson	GB	Atl	0	0	0	0	0	0	0	0	0	0	8	146	2	0	0	0	26

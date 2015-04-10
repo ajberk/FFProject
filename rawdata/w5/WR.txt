@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Demaryius Thomas	Den	Ari	0	0	0	0	0	0	0	0	0	0	8	226	2	0	0	0	34
 DeSean Jackson	Was	Sea	0	0	0	0	0	0	0	0	0	0	5	157	1	0	0	0	21
 Kendall Wright	Ten	Cle	0	0	0	0	0	0	2	43	0	0	6	47	2	0	0	0	20

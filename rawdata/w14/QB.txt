@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Cam Newton	Car	@NO	33	21	226	3	0	0	12	83	1	0	0	0	0	0	0	0	41
 Matt Ryan	Atl	@GB	39	24	375	4	1	0	2	23	0	0	0	0	0	0	0	0	39
 Ben Roethlisberger	Pit	@Cin	39	25	350	3	0	1	1	-1	0	0	0	0	0	0	0	0	34

@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Julio Jones	Atl	TB	0	0	0	0	0	0	0	0	0	0	9	161	2	0	0	0	28
 Jeremy Maclin	Phi	Was	0	0	0	0	0	0	0	0	0	0	8	154	1	0	0	0	21
 Antonio Brown	Pit	@Car	0	0	0	0	0	0	0	0	0	0	10	90	2	0	0	0	21

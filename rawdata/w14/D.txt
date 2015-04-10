@@ -1,4 +1,4 @@
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 New York Giants	@Ten	8.0	2	0	1	0	1	7	146	61	207	27
 St. Louis Rams	@Was	7.0	2	0	0	0	1	0	179	27	206	27
 Cleveland Browns	Ind	3.0	2	0	2	0	2	25	269	93	362	24

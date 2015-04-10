@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 New England Patriots	@Min	6.0	4	0	0	1	1	7	163	54	217	29
 Buffalo Bills	Mia	4.0	1	0	1	1	1	10	210	80	290	23
 Arizona Cardinals	@NYG	2.0	2	0	2	0	1	14	260	81	341	20

@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Aaron Rodgers	GB	Chi	27	18	315	6	0	0	0	0	0	0	0	0	0	0	0	0	48
 Peyton Manning	Den	@Oak	44	31	340	5	2	0	0	0	0	0	0	0	0	0	0	0	39
 Tony Romo	Dal	@Jac	27	20	246	3	0	0	0	0	0	0	0	0	0	0	0	0	27

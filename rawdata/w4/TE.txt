@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Larry Donnell	NYG	@Was	0	0	0	0	0	0	0	0	0	0	7	54	3	0	0	0	23
 Travis Kelce	KC	NE	0	0	0	0	0	0	0	0	0	0	8	93	1	0	0	0	15
 Delanie Walker	Ten	@Ind	0	0	0	0	0	0	0	0	0	0	5	84	1	0	0	0	14

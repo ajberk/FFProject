@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Eric Decker	NYJ	@Mia	0	0	0	0	0	0	0	0	0	0	10	221	1	0	0	0	28
 Michael Floyd	Ari	@SF	0	0	0	0	0	0	0	0	0	0	8	153	2	0	0	0	27
 Odell Beckham	NYG	Phi	0	0	0	0	0	0	0	0	0	0	12	185	1	0	0	0	24

@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Atlanta Falcons	@NO	5.0	2	0	2	0	1	14	271	57	328	23
 Green Bay Packers	@TB	7.0	1	0	0	0	0	3	93	16	109	19
 Chicago Bears	Det	4.0	2	0	1	1	0	20	229	138	367	16

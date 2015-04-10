@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Philadelphia Eagles	@SF	4.0	1	0	0	1	3	26	189	218	407	27
 Miami Dolphins	@Oak	2.0	3	0	1	0	1	14	264	53	317	20
 Kansas City Chiefs	NE	3.0	2	0	1	0	1	14	215	75	290	19

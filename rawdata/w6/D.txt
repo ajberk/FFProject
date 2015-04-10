@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Detroit Lions	@Min	8.0	3	0	0	0	0	3	143	69	212	24
 Arizona Cardinals	Was	2.0	3	0	1	0	1	20	335	72	407	20
 Philadelphia Eagles	NYG	8.0	0	0	1	0	0	0	168	86	254	20

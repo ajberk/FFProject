@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Miami Dolphins	@Jac	4.0	2	0	1	1	2	13	201	176	377	31
 Kansas City Chiefs	Stl	7.0	1	0	0	0	1	7	116	84	200	22
 Minnesota Vikings	@TB	5.0	1	0	1	0	1	13	159	66	225	22

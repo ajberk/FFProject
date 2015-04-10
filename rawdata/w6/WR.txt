@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 T.Y. Hilton	Ind	@Hou	0	0	0	0	0	0	0	0	0	0	9	223	1	0	0	0	28
 Andre Holmes	Oak	SD	0	0	0	0	0	0	0	0	0	0	4	121	2	0	0	0	24
 Brandon LaFell	NE	@Buf	0	0	0	0	0	0	0	0	0	0	4	97	2	0	0	0	21

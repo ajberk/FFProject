@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 St. Louis Rams	Oak	6.0	3	0	2	0	1	0	183	61	244	32
 Minnesota Vikings	Car	4.0	1	0	0	2	2	13	170	178	348	29
 Jacksonville Jaguars	NYG	4.0	0	0	3	0	2	24	213	116	329	23

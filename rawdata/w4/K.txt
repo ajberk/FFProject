@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Blair Walsh	Min	Atl	3	3	5	4	1	17
 Phil Dawson	SF	Phi	2	2	4	4	1	16
 Nick Novak	SD	Jac	3	3	4	4	0	15

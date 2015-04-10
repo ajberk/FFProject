@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Julius Thomas	Den	@NYJ	0	0	0	0	0	0	0	0	0	0	4	51	2	0	0	0	17
 Jordan Cameron	Cle	Pit	0	0	0	0	0	0	0	0	0	0	3	102	1	0	0	0	16
 Clay Harbor	Jac	@Ten	0	0	0	0	0	0	0	0	0	0	3	91	1	0	0	0	15

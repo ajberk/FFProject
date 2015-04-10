@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jonas Gray	NE	@Ind	0	0	0	0	0	0	37	201	4	0	0	0	0	0	0	0	44
 Jamaal Charles	KC	Sea	0	0	0	0	0	0	20	159	2	0	2	19	0	0	1	0	27
 Le'Veon Bell	Pit	@Ten	0	0	0	0	0	0	33	204	1	0	2	18	0	0	0	0	27

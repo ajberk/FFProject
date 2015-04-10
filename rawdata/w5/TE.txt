@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Greg Olsen	Car	Chi	0	0	0	0	0	0	0	0	0	0	6	72	2	0	0	0	19
 Julius Thomas	Den	Ari	0	0	0	0	0	0	0	0	0	0	6	66	2	0	0	0	18
 Antonio Gates	SD	NYJ	0	0	0	0	0	0	0	0	0	0	4	60	2	0	0	0	18

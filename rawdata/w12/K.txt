@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Cody Parkey	Phi	Ten	4	4	6	5	1	21
 Steven Hauschka	Sea	Ari	1	1	5	4	1	15
 Billy Cundiff	Cle	@Atl	2	2	5	4	0	14

@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Branden Oliver	SD	NYJ	0	0	0	0	0	0	19	114	1	0	4	68	1	0	0	0	29
 Arian Foster	Hou	@Dal	0	0	0	0	0	0	23	157	2	0	2	15	0	0	0	0	28
 Andre Ellington	Ari	@Den	0	0	0	0	0	0	16	32	1	0	4	112	1	0	0	0	26

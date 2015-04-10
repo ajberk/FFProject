@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Josh Scobee	Jac	@Bal	0	0	5	4	2	16
 Connor Barth	Den	@SD	1	1	5	5	0	16
 Dan Carpenter	Buf	GB	1	1	4	4	1	15

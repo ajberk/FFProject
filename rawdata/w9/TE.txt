@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Rob Gronkowski	NE	Den	0	0	0	0	0	0	0	0	0	0	9	105	1	0	0	0	16
 Mychal Rivera	Oak	@Sea	0	0	0	0	0	0	0	0	0	0	8	38	2	0	0	0	15
 Jimmy Graham	NO	@Car	0	0	0	0	0	0	0	0	0	0	7	83	1	0	0	0	14

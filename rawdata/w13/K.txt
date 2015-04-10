@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Matt Bryant	Atl	Ari	2	2	5	5	0	17
 Connor Barth	Den	@KC	2	2	5	5	0	17
 Justin Tucker	Bal	SD	3	3	4	4	0	15

@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Jacksonville Jaguars	Cle	3.0	1	0	2	0	0	6	197	69	266	19
 Minnesota Vikings	@Buf	6.0	1	0	3	0	0	17	255	118	373	18
 Baltimore Ravens	Atl	5.0	0	1	1	0	0	7	186	68	254	16

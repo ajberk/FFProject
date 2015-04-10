@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Ben Roethlisberger	Pit	Ind	49	40	522	6	0	0	1	-1	0	0	0	0	0	0	0	0	56
 Tom Brady	NE	Chi	35	30	354	5	0	0	2	0	0	0	0	0	0	0	0	0	44
 Kyle Orton	Buf	@NYJ	17	10	238	4	0	0	2	6	0	0	0	0	0	0	0	0	33

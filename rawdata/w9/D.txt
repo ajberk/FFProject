@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Miami Dolphins	SD	4.0	3	0	1	0	0	0	128	50	178	22
 St. Louis Rams	@SF	8.0	0	0	2	0	0	10	183	80	263	19
 Houston Texans	Phi	4.0	3	0	1	0	1	31	293	190	483	18

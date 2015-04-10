@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jimmy Graham	NO	SF	0	0	0	0	0	0	0	0	0	0	10	76	2	0	0	0	19
 Julius Thomas	Den	@Oak	0	0	0	0	0	0	0	0	0	0	6	63	2	0	0	0	18
 Jared Cook	Stl	@Ari	0	0	0	0	0	0	0	0	0	0	2	84	1	0	0	0	14

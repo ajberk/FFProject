@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Stephen Gostkowski	NE	Chi	6	6	3	3	0	15
 Dan Carpenter	Buf	@NYJ	5	4	3	3	1	15
 Justin Tucker	Bal	@Cin	1	1	3	3	2	14

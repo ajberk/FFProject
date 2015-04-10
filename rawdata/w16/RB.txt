@@ -1,5 +1,5 @@
   Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Marshawn Lynch	Sea	@Ari	0	0	0	0	0	0	10	113	2	0	0	0	0	0	0	0	23
 Frank Gore	SF	SD	0	0	0	0	0	0	26	158	1	0	0	0	0	0	0	0	21
 Lamar Miller	Mia	Min	0	0	0	0	0	0	19	92	1	0	5	58	0	0	0	0	20

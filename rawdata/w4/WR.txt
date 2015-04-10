@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Steve Smith	Bal	Car	0	0	0	0	0	0	0	0	0	0	7	139	2	0	0	0	25
 Antonio Brown	Pit	TB	1	1	17	0	0	0	0	0	0	0	7	131	2	0	0	0	25
 Randall Cobb	GB	@Chi	0	0	0	0	0	0	0	0	0	0	7	113	2	0	0	0	23

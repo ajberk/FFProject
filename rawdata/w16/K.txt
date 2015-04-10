@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Randy Bullock	Hou	Bal	1	1	6	6	0	19
 Josh Brown	NYG	@Stl	4	4	4	3	1	15
 Sebastian Janikowski	Oak	Buf	2	2	5	4	0	14

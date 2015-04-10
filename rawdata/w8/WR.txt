@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Emmanuel Sanders	Den	SD	0	0	0	0	0	0	1	6	0	0	9	120	3	0	0	0	30
 Jeremy Maclin	Phi	@Ari	0	0	0	0	0	0	0	0	0	0	12	187	2	0	0	0	30
 Antonio Brown	Pit	Ind	0	0	0	0	0	0	1	5	0	0	10	133	2	0	0	0	25

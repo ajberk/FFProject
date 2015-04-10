@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Philadelphia Eagles	Car	9.0	3	0	2	0	2	21	215	102	317	32
 Arizona Cardinals	Stl	6.0	2	0	1	0	2	14	174	70	244	28
 Cleveland Browns	@Cin	2.0	3	0	1	0	0	3	79	86	165	20

@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Rob Gronkowski	NE	Chi	0	0	0	0	0	0	0	0	0	0	9	149	3	0	0	0	32
 Heath Miller	Pit	Ind	0	0	0	0	0	0	0	0	0	0	7	112	1	0	0	0	17
 Antonio Gates	SD	@Den	0	0	0	0	0	0	0	0	0	0	5	54	2	0	0	0	17

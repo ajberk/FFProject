@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Greg Zuerlein	Stl	Den	1	1	5	5	2	20
 Randy Bullock	Hou	@Cle	2	2	4	3	1	13
 Matt Bryant	Atl	@Car	1	1	4	4	0	13

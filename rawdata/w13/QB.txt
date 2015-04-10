@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Ryan Fitzpatrick	Hou	Ten	33	24	358	6	0	0	2	10	0	0	0	0	0	0	0	0	51
 Andrew Luck	Ind	Was	27	19	370	5	1	0	4	20	0	0	0	0	0	0	1	0	43
 Drew Brees	NO	@Pit	27	19	257	5	0	0	0	0	0	0	0	0	0	0	0	0	40

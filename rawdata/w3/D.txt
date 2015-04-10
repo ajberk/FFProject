@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Atlanta Falcons	TB	3.0	1	0	4	0	2	14	153	64	217	29
 Indianapolis Colts	@Jac	4.0	2	0	1	0	1	17	239	105	344	20
 Chicago Bears	@NYJ	3.0	2	0	1	0	1	19	300	114	414	19

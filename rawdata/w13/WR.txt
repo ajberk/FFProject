@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 DeAndre Hopkins	Hou	Ten	0	0	0	0	0	0	0	0	0	0	9	238	2	0	0	0	35
 Calvin Johnson	Det	Chi	0	0	0	0	0	0	0	0	0	0	11	146	2	0	0	0	26
 Donte Moncrief	Ind	Was	0	0	0	0	0	0	1	6	0	0	3	134	2	0	0	0	25

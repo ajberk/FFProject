@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Houston Texans	Was	3.0	0	0	2	2	1	6	241	131	372	27
 Minnesota Vikings	@Stl	5.0	2	0	0	0	1	6	246	72	318	25
 San Francisco 49ers	@Dal	3.0	3	0	1	0	1	17	255	127	382	21

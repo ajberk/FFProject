@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Darren Sproles	Phi	@Ind	0	0	0	0	0	0	4	26	1	0	7	152	0	0	0	0	23
 Giovani Bernard	Cin	Atl	0	0	0	0	0	0	27	90	1	0	5	79	0	0	0	0	22
 DeMarco Murray	Dal	@Ten	0	0	0	0	0	0	29	167	1	0	1	6	0	0	1	0	21

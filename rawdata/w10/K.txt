@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Mason Crosby	GB	Chi	7	7	2	2	1	15
 Matt Bryant	Atl	@TB	1	1	4	4	0	13
 Caleb Sturgis	Mia	@Det	1	1	3	3	1	12

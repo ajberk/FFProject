@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Rob Gronkowski	NE	Mia	0	0	0	0	0	0	0	0	0	0	3	96	1	0	0	0	15
 Josh Hill	NO	@Chi	0	0	0	0	0	0	0	0	0	0	2	15	2	0	0	0	13
 Owen Daniels	Bal	Jac	0	0	0	0	0	0	0	0	0	0	4	62	1	0	0	0	12

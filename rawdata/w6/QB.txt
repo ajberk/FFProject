@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Joe Flacco	Bal	@TB	28	21	306	5	0	0	0	0	0	0	0	0	0	0	0	0	42
 Tom Brady	NE	@Buf	37	27	361	4	0	0	4	3	0	0	0	0	0	0	0	0	38
 Cam Newton	Car	@Cin	46	29	284	2	1	0	17	107	1	0	0	0	0	0	0	0	37

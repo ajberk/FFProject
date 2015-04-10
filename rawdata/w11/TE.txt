@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Coby Fleener	Ind	NE	0	0	0	0	0	0	0	0	0	0	7	144	0	0	0	0	14
 Rob Gronkowski	NE	@Ind	0	0	0	0	0	0	0	0	0	0	4	71	1	0	0	0	13
 Jermaine Gresham	Cin	@NO	0	0	0	0	0	0	0	0	0	0	2	13	2	0	0	0	13

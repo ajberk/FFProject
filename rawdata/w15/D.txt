@@ -1,5 +1,5 @@
 
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Baltimore Ravens	Jac	8.0	1	0	0	1	1	12	166	82	248	25
 New England Patriots	Mia	4.0	2	0	0	1	1	13	308	76	384	23
 Buffalo Bills	GB	1.0	2	1	0	1	1	13	175	158	333	22

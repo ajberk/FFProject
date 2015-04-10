@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Drew Brees	NO	@Chi	36	29	375	3	0	0	3	2	0	0	0	0	0	0	0	0	33
 Eli Manning	NYG	Was	34	23	250	3	0	0	0	0	0	0	0	0	0	0	0	0	28
 Tony Romo	Dal	@Phi	31	22	265	3	0	0	4	-1	0	0	0	0	0	0	1	0	27

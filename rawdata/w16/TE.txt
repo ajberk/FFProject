@@ -1,5 +1,5 @@
   Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Luke Willson	Sea	@Ari	0	0	0	0	0	0	0	0	0	0	3	139	2	0	0	0	25
 Antonio Gates	SD	@SF	0	0	0	0	0	0	0	0	0	0	7	92	2	0	0	0	21
 Jason Witten	Dal	Ind	0	0	0	0	0	0	0	0	0	0	7	90	1	0	0	0	15

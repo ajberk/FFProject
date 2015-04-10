@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Phil Dawson	SF	KC	1	1	5	5	2	20
 Stephen Gostkowski	NE	Cin	4	4	5	5	0	19
 Josh Brown	NYG	Atl	3	3	3	3	1	14

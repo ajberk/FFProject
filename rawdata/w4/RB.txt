@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jamaal Charles	KC	NE	0	0	0	0	0	0	18	92	1	0	3	16	2	0	0	0	28
 Matt Asiata	Min	Atl	0	0	0	0	0	0	20	78	3	0	3	22	0	0	0	0	27
 DeMarco Murray	Dal	NO	0	0	0	0	0	0	24	149	2	0	1	6	0	0	0	0	26

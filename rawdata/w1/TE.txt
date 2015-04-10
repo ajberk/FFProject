@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Julius Thomas	Den	Ind	0	0	0	0	0	0	0	0	0	0	7	104	3	0	0	0	28
 Vernon Davis	SF	@Dal	0	0	0	0	0	0	0	0	0	0	4	44	2	0	0	0	16
 Greg Olsen	Car	@TB	0	0	0	0	0	0	0	0	0	0	8	83	1	0	0	0	14

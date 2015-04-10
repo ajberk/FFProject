@@ -1,4 +1,4 @@
-Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts*
+Team	Opp	Sack	Int	Saf	FR	Blk	TD	PA	PassYds	RushYds	TotYds	Pts
 Carolina Panthers	@Atl	6.0	2	0	1	0	2	3	225	63	288	34
 Kansas City Chiefs	SD	7.0	2	0	1	0	1	7	249	112	361	26
 Seattle Seahawks	Stl	4.0	2	0	0	0	1	6	203	42	245	24

@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Marshawn Lynch	Sea	GB	0	0	0	0	0	0	20	110	2	0	1	14	0	0	0	0	24
 Le'Veon Bell	Pit	Cle	0	0	0	0	0	0	21	109	1	0	6	88	0	0	0	0	24
 Knowshon Moreno	Mia	NE	0	0	0	0	0	0	24	134	1	0	0	0	0	0	0	0	19

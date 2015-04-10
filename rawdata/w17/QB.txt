@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Geno Smith	NYJ	@Mia	25	20	358	3	0	0	5	18	0	0	0	0	0	0	1	0	32
 Aaron Rodgers	GB	Det	22	17	226	2	0	0	2	14	1	0	0	0	0	0	0	0	28
 Matthew Stafford	Det	@GB	41	20	217	3	0	0	4	29	0	0	0	0	0	0	1	0	27

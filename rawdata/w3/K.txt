@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Cody Parkey	Phi	Was	4	4	3	3	1	15
 Adam Vinatieri	Ind	@Jac	5	5	3	3	0	14
 Shaun Suisham	Pit	@Car	4	4	3	3	0	13

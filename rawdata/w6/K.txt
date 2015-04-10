@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Stephen Gostkowski	NE	@Buf	4	4	4	3	1	15
 Dan Bailey	Dal	@Sea	3	3	3	3	1	14
 Mike Nugent	Cin	Car	4	4	4	3	0	13

@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Demaryius Thomas	Den	SF	0	0	0	0	0	0	0	0	0	0	8	171	2	0	0	0	29
 Sammy Watkins	Buf	Min	0	0	0	0	0	0	0	0	0	0	9	122	2	0	0	0	24
 Golden Tate	Det	NO	0	0	0	0	0	0	0	0	0	0	10	154	1	0	0	0	21

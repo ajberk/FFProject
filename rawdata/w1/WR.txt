@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Calvin Johnson	Det	NYG	0	0	0	0	0	0	0	0	0	0	7	164	2	0	0	0	28
 Allen Hurns	Jac	@Phi	0	0	0	0	0	0	0	0	0	0	4	110	2	0	0	0	23
 A.J. Green	Cin	@Bal	0	0	0	0	0	0	1	5	0	0	6	131	1	0	0	0	19

@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Matt Bryant	Atl	NO	4	4	3	3	2	17
 Caleb Sturgis	Mia	NE	3	3	4	4	0	15
 Mike Nugent	Cin	@Bal	0	0	6	5	0	15

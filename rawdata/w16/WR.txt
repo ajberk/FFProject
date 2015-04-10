@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Odell Beckham	NYG	@Stl	0	0	0	0	0	0	1	0	0	0	8	148	2	0	0	0	26
 Emmanuel Sanders	Den	@Cin	0	0	0	0	0	0	0	0	0	0	6	70	2	0	0	0	19
 Rueben Randle	NYG	@Stl	0	0	0	0	0	0	0	0	0	0	6	132	1	0	0	0	19

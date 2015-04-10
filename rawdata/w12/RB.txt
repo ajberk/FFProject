@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Justin Forsett	Bal	@NO	0	0	0	0	0	0	22	182	2	0	2	8	0	0	0	0	30
 Eddie Lacy	GB	@Min	0	0	0	0	0	0	25	125	1	0	2	13	1	0	0	0	25
 C.J. Anderson	Den	Mia	0	0	0	0	0	0	27	167	1	0	4	28	0	0	0	0	24

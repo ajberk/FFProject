@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Peyton Manning	Den	Mia	35	28	257	4	0	1	2	-2	0	0	0	0	0	0	0	0	36
 Tony Romo	Dal	@NYG	26	18	275	4	0	0	1	-2	0	0	0	0	0	0	1	0	34
 Drew Brees	NO	Bal	45	35	420	3	1	0	3	15	0	0	0	0	0	0	0	0	33

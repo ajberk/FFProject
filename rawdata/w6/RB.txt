@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Matt Forte	Chi	@Atl	0	0	0	0	0	0	17	80	2	0	10	77	0	0	0	0	27
 Arian Foster	Hou	Ind	0	0	0	0	0	0	20	109	2	0	3	32	0	0	0	0	25
 Giovani Bernard	Cin	Car	0	0	0	0	0	0	18	137	1	0	4	20	0	0	0	0	21

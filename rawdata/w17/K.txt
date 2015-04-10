@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Connor Barth	Den	Oak	5	5	4	4	0	17
 Josh Brown	NYG	Phi	2	2	4	4	1	16
 Dan Bailey	Dal	@Was	5	5	3	3	0	14

@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jeremy Hill	Cin	Jac	0	0	0	0	0	0	24	154	2	0	1	9	0	0	0	0	27
 Marshawn Lynch	Sea	Oak	0	0	0	0	0	0	21	67	2	0	5	76	0	0	0	0	25
 Matt Asiata	Min	Was	0	0	0	0	0	0	10	26	3	1	4	31	0	0	0	0	25

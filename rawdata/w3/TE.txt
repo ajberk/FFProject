@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Martellus Bennett	Chi	@NYJ	0	0	0	0	0	0	0	0	0	0	5	54	2	0	0	0	17
 Greg Olsen	Car	Pit	0	0	0	0	0	0	0	0	0	0	5	69	1	0	0	0	12
 Andrew Quarless	GB	@Det	0	0	0	0	0	0	0	0	0	0	4	43	1	0	0	0	10

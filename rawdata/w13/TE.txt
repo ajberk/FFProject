@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Coby Fleener	Ind	Was	0	0	0	0	0	0	0	0	0	0	4	127	2	0	0	0	24
 Jordan Reed	Was	@Ind	0	0	0	0	0	0	0	0	0	0	9	123	0	0	0	0	12
 Martellus Bennett	Chi	@Det	0	0	0	0	0	0	0	0	0	0	8	109	0	0	0	0	10

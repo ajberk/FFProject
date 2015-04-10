@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jared Cook	Stl	@Was	0	0	0	0	0	0	0	0	0	0	4	61	2	0	0	0	18
 Mychal Rivera	Oak	SF	0	0	0	0	0	0	0	0	0	0	7	109	1	0	0	0	16
 Rob Gronkowski	NE	@SD	0	0	0	0	0	0	0	0	0	0	8	87	1	0	0	0	14

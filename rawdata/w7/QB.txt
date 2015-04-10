@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Russell Wilson	Sea	@Stl	36	23	313	2	0	0	7	106	1	0	0	0	0	0	0	0	40
 Peyton Manning	Den	SF	26	22	318	4	0	0	1	-1	0	0	0	0	0	0	0	0	36
 Aaron Rodgers	GB	Car	22	19	255	3	0	0	3	21	0	0	0	0	0	0	0	0	30

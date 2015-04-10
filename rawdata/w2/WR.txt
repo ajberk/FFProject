@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jordy Nelson	GB	NYJ	0	0	0	0	0	0	0	0	0	0	9	209	1	0	0	0	26
 Brandon Marshall	Chi	@SF	0	0	0	0	0	0	0	0	0	0	5	48	3	0	0	0	22
 Sammy Watkins	Buf	Mia	0	0	0	0	0	0	0	0	0	0	8	117	1	0	0	0	17

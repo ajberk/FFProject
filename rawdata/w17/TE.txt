@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Coby Fleener	Ind	@Ten	0	0	0	0	0	0	0	0	0	0	5	56	2	0	0	0	17
 Virgil Green	Den	Oak	0	0	0	0	0	0	0	0	0	0	3	46	1	0	0	0	10
 Charles Clay	Mia	NYJ	0	0	0	0	0	0	0	0	0	0	5	45	1	0	0	0	10

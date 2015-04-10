@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Jordy Nelson	GB	Chi	0	0	0	0	0	0	0	0	0	0	6	152	2	0	0	0	27
 Dez Bryant	Dal	@Jac	0	0	0	0	0	0	0	0	0	0	6	158	2	0	0	0	27
 Jordan Matthews	Phi	Car	0	0	0	0	0	0	0	0	0	0	7	138	2	0	0	0	25

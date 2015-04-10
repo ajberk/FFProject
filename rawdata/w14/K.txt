@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Josh Brown	NYG	@Ten	3	3	5	5	1	20
 Nick Folk	NYJ	@Min	1	1	5	5	0	16
 Mason Crosby	GB	Atl	5	4	3	3	1	15

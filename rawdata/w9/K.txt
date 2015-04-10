@@ -1,4 +1,4 @@
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Adam Vinatieri	Ind	@NYG	4	4	4	4	0	16
 Caleb Sturgis	Mia	SD	4	4	4	3	0	13
 Stephen Gostkowski	NE	Den	4	4	3	3	0	13

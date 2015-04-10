@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Le'Veon Bell	Pit	@Cin	0	0	0	0	0	0	26	185	2	0	6	50	1	0	0	0	41
 DeMarco Murray	Dal	@Chi	0	0	0	0	0	0	32	179	1	0	9	49	0	0	0	0	27
 Joique Bell	Det	TB	0	0	0	0	0	0	18	83	1	0	5	50	1	0	0	0	25

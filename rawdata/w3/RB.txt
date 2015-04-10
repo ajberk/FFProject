@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Marshawn Lynch	Sea	Den	0	0	0	0	0	0	26	88	1	0	3	40	1	0	0	0	24
 Rashad Jennings	NYG	Hou	0	0	0	0	0	0	34	176	1	0	0	0	0	0	0	0	23
 DeMarco Murray	Dal	@Stl	0	0	0	0	0	0	24	100	1	0	4	31	0	0	1	0	18

@@ -1,6 +1,6 @@
 
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Marshawn Lynch	Sea	NYG	0	0	0	0	0	0	21	140	4	0	1	23	0	0	0	0	40
 Justin Forsett	Bal	Ten	0	0	0	0	0	0	20	112	2	0	0	0	0	0	0	0	23
 C.J. Anderson	Den	@Oak	0	0	0	0	0	0	13	90	0	0	4	73	1	0	0	0	22

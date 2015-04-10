@@ -1,5 +1,5 @@
 
-Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts*
+Player	Team	Opp	XPA	XPM	FGA	FGM	50+	Pts
 Dan Carpenter	Buf	Mia	2	2	6	5	0	17
 Dan Bailey	Dal	@Ten	2	2	4	4	1	16
 Justin Tucker	Bal	Pit	2	2	4	4	0	14

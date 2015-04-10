@@ -1,5 +1,5 @@
    Passing	Rushing	Receiving	Fumbles
-Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts*
+Player	Team	Opp	Att	Cmp	Yds	TD	Int	2Pt	Att	Yds	TD	2Pt	Rec	Yds	TD	2Pt	FL	TD	Pts
 Odell Beckham	NYG	Was	0	0	0	0	0	0	1	0	0	0	12	143	3	0	1	0	31
 Dez Bryant	Dal	@Phi	0	0	0	0	0	0	0	0	0	0	6	114	3	0	0	0	29
 Demaryius Thomas	Den	@SD	0	0	0	0	0	0	0	0	0	0	6	123	1	0	0	0	18
