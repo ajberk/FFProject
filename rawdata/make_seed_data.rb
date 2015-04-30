@@ -62,12 +62,4 @@ module GettingData
       all_week_info.concat(read_file_lines(file,week_num)[line_num + 1..-1])
     end
   end
-
-  def self.hi
-    p "hi"
-  end
-
-  def self.what_is_pwd
-    pwd
-  end
 end
