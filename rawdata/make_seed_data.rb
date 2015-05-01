@@ -9,6 +9,7 @@ module GettingData
       next if line.length == 1
       line.last.gsub!("\n", "")
       line << week_num.to_s
+      line << File.basename(file, File.extname(file))
       info << line
     end
     self.append_titles(file, info)
@@ -19,19 +20,19 @@ module GettingData
     if file == "D.txt"
       info[0] = %w(team opponent sacks interceptions safeties
                       fumble_recoveries blocks defensive_td	points_against passing_yards_against
-                      rushing_yards_against total_yards_against	points week)
+                      rushing_yards_against total_yards_against	points week position)
     elsif file == "K.txt"
       info[0] = %w(player team opponent extra_point_attempts
                       extra_points_made	field_goal_attempts field_goals_made
-                      fifty_plus_yard_field_goals points week)
+                      fifty_plus_yard_field_goals points week position)
     else
-      info[1] = %w(Player Team Opponent
-                      Passing_Attempts Passing_Completions Passing_Yards
-                      Passing_TD Interceptions Passing_2Pt
-                      Rushing_Attempts Rushing_Yards Rushing_TD
-                      Rushing_2Pt_Conversions	Receptions Recieving_Yds
-                      Recieving_TD Recieving_2Pt_Conversions Fumbles_Lost
-                      Fumble_TD	Points Week)
+      info[1] = %w(player team opponent
+                      passing_attempts passing_completions passing_yards
+                      passing_td interceptions passing_2Pt
+                      rushing_attempts rushing_yards rushing_td
+                      rushing_2Pt_conversions	receptions recieving_yds
+                      recieving_td recieving_2Pt_conversions fumbles_lost
+                      fumble_td	points week position)
     end
   end
 

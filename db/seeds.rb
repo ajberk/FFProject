@@ -35,17 +35,16 @@ end
 
 def give_info_correct_data_type(info, titles, info_line, line)
   line.each_with_index do |stat, idx|
-    if titles[idx] == "Player" || titles[idx] == "Opponent" || titles[idx] == "Team"
+    if titles[idx] == "player" || titles[idx] == "opponent" || titles[idx] == "team" || titles[idx] == "position"
       info_line[titles[idx].to_sym] = stat
     else
       info_line[titles[idx].to_sym] = stat.to_i
     end
   end
 end
-
-defenses = Defense.create(make_seed_objects(d_info))
-kickers = Kicker.create(make_seed_objects(k_info))
-quarterbacks = Quarterback.create(make_seed_objects(qb_info))
-runningbacks = Runningback.create(make_seed_objects(rb_info))
-tightends = Tightend.create(make_seed_objects(te_info))
-widerecievers = Widereciever.create(make_seed_objects(wr_info))
+defenses = Position.create(make_seed_objects(d_info))
+kickers = Position.create(make_seed_objects(k_info))
+quarterbacks = Position.create(make_seed_objects(qb_info))
+runningbacks = Position.create(make_seed_objects(rb_info))
+tightends = Position.create(make_seed_objects(te_info))
+widerecievers = Position.create(make_seed_objects(wr_info))
