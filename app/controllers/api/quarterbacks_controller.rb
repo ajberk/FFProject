@@ -1,6 +1,6 @@
 class Api::QuarterbacksController < ApplicationController
 
-  def show
+  def index
     @quarterback = Quarterback.find_max_qb
   end
 

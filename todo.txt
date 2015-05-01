@@ -1,1 +1,5 @@
-Make DB. Seed DB. 
+DB is made, but the columns are in caps and active record doesnt like that.
+So fix all columns so that they are lower case, as well as make_seed_data.rb file
+EDIT::: this is the format i Need to use
+  Quarterback.where("\"Opponent\" = ?", "@Sea").
+      where("\"Week\" = ?", 1)
