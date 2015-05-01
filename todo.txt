@@ -3,3 +3,6 @@ So fix all columns so that they are lower case, as well as make_seed_data.rb fil
 EDIT::: this is the format i Need to use
   Quarterback.where("\"Opponent\" = ?", "@Sea").
       where("\"Week\" = ?", 1)
+
+
+hi

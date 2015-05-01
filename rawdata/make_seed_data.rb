@@ -17,13 +17,13 @@ module GettingData
 
   def self.append_titles(file, info)
     if file == "D.txt"
-      info[0] = %w(Team Opponent Sacks Interceptions Safeties
-                      Fumble_Recoveries Blocks TD	Points_Against Passing_Yards_Against
-                      Rushing_Yards_Against Total_Yards_Against	Points Week)
+      info[0] = %w(team opponent sacks interceptions safeties
+                      fumble_recoveries blocks defensive_td	points_against passing_yards_against
+                      rushing_yards_against total_yards_against	points week)
     elsif file == "K.txt"
-      info[0] = %w(Player Team Opponent Extra_Point_Attempts
-                      Extra_Points_Made	Field_Goal_Attempts Field_Goals_Made
-                      Fifty_Plus_Yard_Field_Goals Points Week)
+      info[0] = %w(player team opponent extra_point_attempts
+                      extra_points_made	field_goal_attempts field_goals_made
+                      fifty_plus_yard_field_goals points week)
     else
       info[1] = %w(Player Team Opponent
                       Passing_Attempts Passing_Completions Passing_Yards

@@ -11,161 +11,49 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150430215604) do
+ActiveRecord::Schema.define(version: 20150501224051) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "defenses", force: true do |t|
-    t.string  "Team",                  null: false
-    t.string  "Opponent",              null: false
-    t.integer "Sacks",                 null: false
-    t.integer "Interceptions",         null: false
-    t.integer "Safeties",              null: false
-    t.integer "Fumble_Recoveries",     null: false
-    t.integer "Blocks",                null: false
-    t.integer "TD",                    null: false
-    t.integer "Points_Against",        null: false
-    t.integer "Passing_Yards_Against", null: false
-    t.integer "Rushing_Yards_Against", null: false
-    t.integer "Total_Yards_Against",   null: false
-    t.integer "Points",                null: false
-    t.integer "Week",                  null: false
+  create_table "positions", force: true do |t|
+    t.string  "player"
+    t.string  "position"
+    t.string  "team"
+    t.string  "opponent"
+    t.integer "passing_attempts"
+    t.integer "passing_completions"
+    t.integer "passing_yards"
+    t.integer "passing_td"
+    t.integer "tnterceptions"
+    t.integer "passing_2Pt"
+    t.integer "rushing_attempts"
+    t.integer "rushing_yards"
+    t.integer "rushing_td"
+    t.integer "rushing_2Pt_conversions"
+    t.integer "receptions"
+    t.integer "recieving_yds"
+    t.integer "recieving_td"
+    t.integer "recieving_2Pt_conversions"
+    t.integer "fumbles_lost"
+    t.integer "fumble_td"
+    t.integer "points"
+    t.integer "week"
+    t.integer "sacks"
+    t.integer "interceptions"
+    t.integer "safeties"
+    t.integer "fumble_recoveries"
+    t.integer "blocks"
+    t.integer "defensive_td"
+    t.integer "points_against"
+    t.integer "passing_yards_against"
+    t.integer "rushing_yards_against"
+    t.integer "total_yards_against"
+    t.integer "extra_point_attempts"
+    t.integer "extra_points_made"
+    t.integer "field_goal_attempts"
+    t.integer "field_goals_made"
+    t.integer "fifty_plus_yard_field_goals"
   end
-
-  add_index "defenses", ["Opponent"], name: "index_defenses_on_Opponent", using: :btree
-  add_index "defenses", ["Points"], name: "index_defenses_on_Points", using: :btree
-  add_index "defenses", ["Team"], name: "index_defenses_on_Team", using: :btree
-
-  create_table "kickers", force: true do |t|
-    t.string  "Player",                      null: false
-    t.string  "Team",                        null: false
-    t.string  "Opponent",                    null: false
-    t.integer "Extra_Point_Attempts",        null: false
-    t.integer "Extra_Points_Made",           null: false
-    t.integer "Field_Goal_Attempts",         null: false
-    t.integer "Field_Goals_Made",            null: false
-    t.integer "Fifty_Plus_Yard_Field_Goals", null: false
-    t.integer "Points",                      null: false
-    t.integer "Week",                        null: false
-  end
-
-  add_index "kickers", ["Opponent"], name: "index_kickers_on_Opponent", using: :btree
-  add_index "kickers", ["Points"], name: "index_kickers_on_Points", using: :btree
-  add_index "kickers", ["Team"], name: "index_kickers_on_Team", using: :btree
-
-  create_table "quarterbacks", force: true do |t|
-    t.string  "Player",                    null: false
-    t.string  "Team",                      null: false
-    t.string  "Opponent",                  null: false
-    t.integer "Passing_Attempts",          null: false
-    t.integer "Passing_Completions",       null: false
-    t.integer "Passing_Yards",             null: false
-    t.integer "Passing_TD",                null: false
-    t.integer "Interceptions",             null: false
-    t.integer "Passing_2Pt",               null: false
-    t.integer "Rushing_Attempts",          null: false
-    t.integer "Rushing_Yards",             null: false
-    t.integer "Rushing_TD",                null: false
-    t.integer "Rushing_2Pt_Conversions",   null: false
-    t.integer "Receptions",                null: false
-    t.integer "Recieving_Yds",             null: false
-    t.integer "Recieving_TD",              null: false
-    t.integer "Recieving_2Pt_Conversions", null: false
-    t.integer "Fumbles_Lost",              null: false
-    t.integer "Fumble_TD",                 null: false
-    t.integer "Points",                    null: false
-    t.integer "Week",                      null: false
-  end
-
-  add_index "quarterbacks", ["Opponent"], name: "index_quarterbacks_on_Opponent", using: :btree
-  add_index "quarterbacks", ["Points"], name: "index_quarterbacks_on_Points", using: :btree
-  add_index "quarterbacks", ["Team"], name: "index_quarterbacks_on_Team", using: :btree
-
-  create_table "runningbacks", force: true do |t|
-    t.string   "Player",                    null: false
-    t.string   "Team",                      null: false
-    t.string   "Opponent",                  null: false
-    t.integer  "Passing_Attempts",          null: false
-    t.integer  "Passing_Completions",       null: false
-    t.integer  "Passing_Yards",             null: false
-    t.integer  "Passing_TD",                null: false
-    t.integer  "Interceptions",             null: false
-    t.integer  "Passing_2Pt",               null: false
-    t.integer  "Rushing_Attempts",          null: false
-    t.integer  "Rushing_Yards",             null: false
-    t.integer  "Rushing_TD",                null: false
-    t.integer  "Rushing_2Pt_Conversions",   null: false
-    t.integer  "Receptions",                null: false
-    t.integer  "Recieving_Yds",             null: false
-    t.integer  "Recieving_TD",              null: false
-    t.integer  "Recieving_2Pt_Conversions", null: false
-    t.integer  "Fumbles_Lost",              null: false
-    t.integer  "Fumble_TD",                 null: false
-    t.integer  "Points",                    null: false
-    t.integer  "Week",                      null: false
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  add_index "runningbacks", ["Opponent"], name: "index_runningbacks_on_Opponent", using: :btree
-  add_index "runningbacks", ["Points"], name: "index_runningbacks_on_Points", using: :btree
-  add_index "runningbacks", ["Team"], name: "index_runningbacks_on_Team", using: :btree
-
-  create_table "tightends", force: true do |t|
-    t.string  "Player",                    null: false
-    t.string  "Team",                      null: false
-    t.string  "Opponent",                  null: false
-    t.integer "Passing_Attempts",          null: false
-    t.integer "Passing_Completions",       null: false
-    t.integer "Passing_Yards",             null: false
-    t.integer "Passing_TD",                null: false
-    t.integer "Interceptions",             null: false
-    t.integer "Passing_2Pt",               null: false
-    t.integer "Rushing_Attempts",          null: false
-    t.integer "Rushing_Yards",             null: false
-    t.integer "Rushing_TD",                null: false
-    t.integer "Rushing_2Pt_Conversions",   null: false
-    t.integer "Receptions",                null: false
-    t.integer "Recieving_Yds",             null: false
-    t.integer "Recieving_TD",              null: false
-    t.integer "Recieving_2Pt_Conversions", null: false
-    t.integer "Fumbles_Lost",              null: false
-    t.integer "Fumble_TD",                 null: false
-    t.integer "Points",                    null: false
-    t.integer "Week",                      null: false
-  end
-
-  add_index "tightends", ["Opponent"], name: "index_tightends_on_Opponent", using: :btree
-  add_index "tightends", ["Points"], name: "index_tightends_on_Points", using: :btree
-  add_index "tightends", ["Team"], name: "index_tightends_on_Team", using: :btree
-
-  create_table "widerecievers", force: true do |t|
-    t.string  "Player",                    null: false
-    t.string  "Team",                      null: false
-    t.string  "Opponent",                  null: false
-    t.integer "Passing_Attempts",          null: false
-    t.integer "Passing_Completions",       null: false
-    t.integer "Passing_Yards",             null: false
-    t.integer "Passing_TD",                null: false
-    t.integer "Interceptions",             null: false
-    t.integer "Passing_2Pt",               null: false
-    t.integer "Rushing_Attempts",          null: false
-    t.integer "Rushing_Yards",             null: false
-    t.integer "Rushing_TD",                null: false
-    t.integer "Rushing_2Pt_Conversions",   null: false
-    t.integer "Receptions",                null: false
-    t.integer "Recieving_Yds",             null: false
-    t.integer "Recieving_TD",              null: false
-    t.integer "Recieving_2Pt_Conversions", null: false
-    t.integer "Fumbles_Lost",              null: false
-    t.integer "Fumble_TD",                 null: false
-    t.integer "Points",                    null: false
-    t.integer "Week",                      null: false
-  end
-
-  add_index "widerecievers", ["Opponent"], name: "index_widerecievers_on_Opponent", using: :btree
-  add_index "widerecievers", ["Points"], name: "index_widerecievers_on_Points", using: :btree
-  add_index "widerecievers", ["Team"], name: "index_widerecievers_on_Team", using: :btree
 
 end
