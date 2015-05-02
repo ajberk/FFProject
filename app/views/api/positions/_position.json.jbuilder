@@ -1,1 +1,1 @@
-json.extract! position, :opponent
+json.merge! position.attributes
