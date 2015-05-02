@@ -1,6 +1,13 @@
-class PositionsController < Api::ApplicationController
+class Api::PositionsController < ApplicationController
 
   def index
-    @position = Position.all
+    @positions = Position.limit(5)
+  end
+
+  def show
+    @position = Position.find(params[:id])
+  end
+
+  def position_params
   end
 end
