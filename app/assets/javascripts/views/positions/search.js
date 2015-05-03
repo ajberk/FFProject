@@ -13,8 +13,10 @@ FFProject.Views.SearchForm = Backbone.View.extend({
   submit: function(event) {
     event.preventDefault();
     var $target = $(event.currentTarget);
-    debugger
+    var positions = FFProject.Collections.SearchResults.extend({
+      url: '/api/positions/'
+    });
     data = $target.serialize()
-    alert(data)
+    positions.search(data)
   }
 });
