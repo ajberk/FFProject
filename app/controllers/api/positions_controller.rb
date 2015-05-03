@@ -1,7 +1,7 @@
 class Api::PositionsController < ApplicationController
 
   def index
-    @positions = Position.limit(5)
+    @positions = Position.limit(10)
   end
 
   def show

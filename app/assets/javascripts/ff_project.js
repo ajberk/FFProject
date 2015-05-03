@@ -4,7 +4,11 @@ window.FFProject = {
   Views: {},
   Routers: {},
   initialize: function() {
-    alert('Hello from Backbone!');
+    var $rootEl = $("#content");
+    new FFProject.Routers.Router({
+      $rootEl: $rootEl
+    })
+    Backbone.history.start()
   }
 };
 
