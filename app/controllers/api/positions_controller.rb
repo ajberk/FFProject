@@ -1,7 +1,8 @@
 class Api::PositionsController < ApplicationController
+  has_scope :id
 
   def index
-    @positions = Position.all
+    @positions = apply_scopes(Position).all
   end
 
   def show

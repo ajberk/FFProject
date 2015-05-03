@@ -3,7 +3,7 @@ FFProject.Collections.SearchResults = Backbone.Collection.extend({},{
     var search = $.Deferred();
     options = options || {};
     var collection = new this([], options);
-    collection.url = _.result(collection, 'url') + 'search';
+    collection.url = _.result(collection, 'url');
     var fetch = collection.fetch({
       data: {
         q: query

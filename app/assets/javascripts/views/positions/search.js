@@ -17,6 +17,7 @@ FFProject.Views.SearchForm = Backbone.View.extend({
       url: '/api/positions/'
     });
     data = $target.serialize()
+    debugger
     positions.search(data)
   }
 });

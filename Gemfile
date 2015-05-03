@@ -28,6 +28,7 @@ gem 'spring',        group: :development
 
 gem 'hirb', group: :development
 gem 'backbone-on-rails'
+gem 'has_scope'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
