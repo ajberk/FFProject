@@ -1,3 +1,8 @@
 ** Add methods to retrieve positions' data in positions controller
 ** Add backbone position model
 ** Research Graphing Display for Frontend (D3.JS)
+
+
+Backbone search collection is still a bit of a mystery, need to investigate further
+Right now, the route api/positions?id=10 works as a "search"
+got it to work, maybe in a little bit of an unexpected way

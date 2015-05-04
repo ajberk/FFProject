@@ -1,8 +1,8 @@
-FFProject.Views.SearchForm = Backbone.View.extend({
+FFProject.Views.SearchForm = Backbone.CompositeView.extend({
   template: JST["positions/search"],
 
   events: {
-    "submit form.search": "submit",
+    "submit form.search-form": "submit",
   },
 
   render: function(){
@@ -12,12 +12,19 @@ FFProject.Views.SearchForm = Backbone.View.extend({
 
   submit: function(event) {
     event.preventDefault();
+    var that = this;
     var $target = $(event.currentTarget);
+    var data = $target.serialize()
     var positions = FFProject.Collections.SearchResults.extend({
-      url: '/api/positions/'
+      url: '/api/positions/?' + data
     });
-    data = $target.serialize()
-    debugger
-    positions.search(data)
+    var results = positions.search(data)
+    results.done(function(positions){
+      that.graphView && that.graphView.remove()
+      that.graphView = new FFProject.Views.GraphView({
+        collection: positions
+      });
+      that.addSubview('#graph', that.graphView)
+    });
   }
 });

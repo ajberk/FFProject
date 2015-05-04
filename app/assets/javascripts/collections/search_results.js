@@ -1,14 +1,11 @@
 FFProject.Collections.SearchResults = Backbone.Collection.extend({},{
+
   search: function(query, options){
     var search = $.Deferred();
     options = options || {};
     var collection = new this([], options);
     collection.url = _.result(collection, 'url');
-    var fetch = collection.fetch({
-      data: {
-        q: query
-      }
-    });
+    var fetch = collection.fetch();
     fetch.done(_.bind(function(){
       Backbone.Events.trigger('search:done');
       search.resolveWith(this, [collection]);
@@ -19,6 +16,7 @@ FFProject.Collections.SearchResults = Backbone.Collection.extend({},{
     });
     return search.promise();
   }
+  
 });
 
 // from http://willdemaine.ghost.io/restful-search-with-backbone/
