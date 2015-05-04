@@ -3,22 +3,17 @@ class Api::PositionsController < ApplicationController
 
   def index
     week = 1
-    query = "SELECT * FROM positions WHERE week = 1 AND opponent = 'Ari' OR opponent = '@Ari'"
+    max = apply_scopes(Position).where(week: week).maximum(:points)
+    query = "SELECT * FROM positions WHERE week = 1 AND points = #{max} AND (opponent = 'Ari' OR opponent = '@Ari')"
     while week < 18
-      query += "UNION SELECT * FROM positions WHERE week = #{week} AND opponent = 'Ari' OR opponent = '@Ari'"
-      week+= 1
-    end
+      max = apply_scopes(Position).where(week: week).maximum(:points)
+      if max
+        query += " UNION SELECT * FROM positions WHERE week = #{week}  AND points = #{max} AND (opponent = 'Ari' OR opponent = '@Ari')"
+      end
 
-    # results = Position.execute(<<-SQL, 1, 'Ari')
-    #   SELECT
-    #     *
-    #   FROM
-    #     positions
-    #   WHERE
-    #     week = ?
-    #   AND
-    #     opponent = ?
-    # SQL
+      week += 1
+    end
+    query += "ORDER BY week"
 
     @positions = Position.find_by_sql(query)
   end

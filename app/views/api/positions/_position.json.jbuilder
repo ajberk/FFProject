@@ -1,1 +1,1 @@
-json.merge! position.attributes
+json.extract! position, :points, :player, :team, :opponent, :week
