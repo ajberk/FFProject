@@ -3,6 +3,7 @@ class Api::PositionsController < ApplicationController
 
   def index
     week = 1
+<<<<<<< HEAD
     max = apply_scopes(Position).where(week: week).maximum(:points)
     query = "SELECT * FROM positions WHERE week = 1 AND points = #{max} AND (opponent = 'Ari' OR opponent = '@Ari')"
     while week < 18
