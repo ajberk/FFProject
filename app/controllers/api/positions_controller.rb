@@ -2,16 +2,25 @@ class Api::PositionsController < ApplicationController
   has_scope :opponent
 
   def index
-    # @positions = apply_scopes(Position).where(id: 51)
-    @positions = apply_scopes(Position).where(week: 1)
-    # week = 2
-    # while week < 4
-    #   max = @positions.where(week: week).maximum(:points)
-    #   @positions.merge(apply_scopes(Position).where(week: week))
-    #   week+=1
-    # end
+    week = 1
+    query = "SELECT * FROM positions WHERE week = 1 AND opponent = 'Ari' OR opponent = '@Ari'"
+    while week < 18
+      query += "UNION SELECT * FROM positions WHERE week = #{week} AND opponent = 'Ari' OR opponent = '@Ari'"
+      week+= 1
+    end
 
-    @positions
+    # results = Position.execute(<<-SQL, 1, 'Ari')
+    #   SELECT
+    #     *
+    #   FROM
+    #     positions
+    #   WHERE
+    #     week = ?
+    #   AND
+    #     opponent = ?
+    # SQL
+
+    @positions = Position.find_by_sql(query)
   end
 
   def show
