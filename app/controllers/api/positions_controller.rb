@@ -3,9 +3,9 @@ class Api::PositionsController < ApplicationController
 
   def index
     week = 1
-    query = "SELECT * FROM positions WHERE week = 1 AND opponent = 'Ari' OR opponent = '@Ari'"
+    query = "SELECT * FROM positions WHERE week = #{week}"
     while week < 18
-      query += "UNION SELECT * FROM positions WHERE week = #{week} AND opponent = 'Ari' OR opponent = '@Ari'"
+      query += " UNION SELECT * FROM positions WHERE week = #{week}"
       week+= 1
     end
 
@@ -19,8 +19,7 @@ class Api::PositionsController < ApplicationController
     #   AND
     #     opponent = ?
     # SQL
-
-    @positions = Position.find_by_sql(query)
+    @positions = apply_scopes(Position).find_by_sql(query)
   end
 
   def show
