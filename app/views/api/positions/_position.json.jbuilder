@@ -1,1 +1,1 @@
-json.extract! position, :points, :player, :team, :opponent, :week
+json.extract! position, :points, :player, :team, :opponent, :week, :position
