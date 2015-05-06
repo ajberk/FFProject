@@ -15,7 +15,6 @@ FFProject.Views.SearchForm = Backbone.CompositeView.extend({
     var that = this;
     var $target = $(event.currentTarget);
     var data = $target.serialize()
-    debugger
     var positions = FFProject.Collections.SearchResults.extend({
       url: '/api/positions/?' + data
     });
