@@ -16,6 +16,6 @@ class Position < ActiveRecord::Base
       week += 1
     end
     query += "ORDER BY week"
-    Position.find_by_sql(query)
+    self.find_by_sql(query)
   end
 end
